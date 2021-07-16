@@ -2,6 +2,7 @@
 [ "$UID" = 0 ] && echo "Don't run me as root! I will call sudo myself whenever needed." >&2 && exit 1
 scriptDir="$(dirname "$0")"
 sudo cp -lf /etc/vimrc "$scriptDir"/system/etc/
+sudo cp -lf /etc/environment "$scriptDir"/system/etc/
 sudo cp -lf /etc/samba/smb.conf "$scriptDir"/system/etc/samba/
 sudo cp -lf /etc/fstab "$scriptDir"/system/etc/fstab.example
 sudo cp -lf /etc/gdm-tools/{custom.css,current{Background,Theme}} "$scriptDir"/system/etc/gdm-tools/

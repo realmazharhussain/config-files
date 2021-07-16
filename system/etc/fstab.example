@@ -8,6 +8,8 @@
 UUID=f224d6e8-c961-4a73-9d65-b8d02b697e91 /              ext4    defaults,noatime   0        1
 UUID=3F51-8C00                            /boot/efi      vfat    umask=0077         0        2
 /swap                                     none           swap    sw                 0        0
+
+# Data Drives
 LABEL=Data   /mnt/Data   auto   uid=1000,gid=1000,umask=0022,nosuid,nodev,nofail,x-gvfs-show   0  0
 
 # For config-files git repo

@@ -1,0 +1,10 @@
+type: 1000
+url: https://www.prepostseo.com/frontend/saveDocImagetoText
+size: 0
+header: host:www.prepostseo.com
+header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+header: content-type:application/x-www-form-urlencoded
+header: content-length:1082
+header: origin:https://www.prepostseo.com
+header: referer:https://www.prepostseo.com/image-to-text
+header: Cookie:ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2263ed1a516131cd4486f2410cf8008e67%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%22103.7.77.90%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A68%3A%22Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%3B%20rv%3A89.0%29%20Gecko%2F20100101%20Firefox%2F89.0%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1623997776%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D1c201e06030565a4f9438bc4e1feea76

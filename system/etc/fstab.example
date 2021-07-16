@@ -12,3 +12,11 @@ LABEL=Data   /mnt/Data   auto   uid=1000,gid=1000,umask=0022,nosuid,nodev,nofail
 
 # For config-files git repo
 /home/mazhar/.config/freej2me /home/mazhar/gitapps/config-files/user/.config/freej2me auto bind 0 0
+/home/mazhar/.config/fish/functions /home/mazhar/gitapps/config-files/user/.config/fish/functions auto bind 0 0
+/home/mazhar/.config/fish/fish_functions /home/mazhar/gitapps/config-files/user/.config/fish/fish_functions auto bind 0 0
+/home/mazhar/.config/Typora/themes /home/mazhar/gitapps/config-files/user/.config/Typora/themes auto bind 0 0
+/home/mazhar/.local/share/applications/wine/MimeApps /home/mazhar/gitapps/config-files/user/.local/share/applications/wine/MimeApps auto bind 0 0
+/home/mazhar/.local/share/supertux2 /home/mazhar/gitapps/config-files/user/.local/share/supertux2 auto bind 0 0
+/home/mazhar/.xdman /home/mazhar/gitapps/config-files/user/.xdman auto bind 0 0
+/etc/fish/ /home/mazhar/gitapps/config-files/system/etc/fish auto bind 0 0
+

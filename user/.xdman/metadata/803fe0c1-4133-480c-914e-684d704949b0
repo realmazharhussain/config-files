@@ -1,0 +1,5 @@
+type: 1000
+url: http://ftp.br.debian.org/debian/pool/main/f/funnyboat/funnyboat_1.5-11_all.deb
+size: 3759152
+header: host:ftp.br.debian.org
+header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0

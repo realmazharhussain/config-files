@@ -1,0 +1,2112 @@
+173
+11
+id: cd32af21-4854-42d0-bdc6-31301efc6cd2
+file: The_Boys_S01E01_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-19 17:34:18
+downloaded: 151004226
+size: 151004226
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 5814e2c7-31bc-4926-9705-e409f689edc9
+file: Lucifer_S03E18_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:17:51
+downloaded: 109370966
+size: 109370966
+progress: 86
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 89737518-ca27-46d7-a236-e512033945f9
+file: Titans_S02E12_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:43:23
+downloaded: 122201695
+size: 122201695
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 998b0269-a9ce-4960-94d8-4cd7cf95e833
+file: stub-release.apk
+category: 60
+state: 100
+folder: /home/mazhar/Downloads
+date: 2021-07-09 13:04:02
+downloaded: 29110
+size: 29110
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 4cb72ebf-6e48-4f7d-a099-9dc114eddaa2
+file: Lucifer_S05E11_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:13:11
+downloaded: 131445270
+size: 131445270
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: d2117623-6d15-47ff-a854-35529c5d6efe
+file: Lucifer_S05E06_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:32:51
+downloaded: 137278459
+size: 137278459
+progress: 93
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 52b89a91-3b49-42f8-85fa-8de5e61f1a7b
+file: Lucifer_S05E02_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:30:07
+downloaded: 142610651
+size: 142610651
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 7c5d94ba-0ec8-46b4-927a-6da330514ee2
+file: Titans_S02E11_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:42:26
+downloaded: 117805205
+size: 117805205
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 046b08a0-97cb-4d35-a150-ece11d2db4f0
+file: The_Boys_S01E02_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-19 17:34:35
+downloaded: 147284432
+size: 147284432
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: f7330430-354b-41fb-a40e-8f9b8c30434d
+file: MoviesRush.in_18+.Cshbck.2006.720p.BlRy.x264.mkv
+category: 30
+state: 100
+date: 2021-06-15 17:35:28
+downloaded: 906261424
+size: 906261424
+progress: 98
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: d56aac1d-655a-4551-9e2b-67c44df0115d
+file: Titans_S02E05_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:38:35
+downloaded: 109504297
+size: 109504297
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 23b16c29-e76f-417b-8b3c-353fcdc50a13
+file: Fluent-Typora-2.0.zip
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-23 17:03:33
+downloaded: 1955861
+size: 1955861
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 15c550ce-f74d-4d6e-99e6-7ef0414e3b17
+file: Lucifer__Season_01_Episode_11_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-23 15:51:46
+downloaded: 108722988
+size: 108722988
+progress: 87
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 4d3edb0e-5c92-4d0a-8306-78a0046db4e1
+file: Lucifer__Season_02_Episode_13_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-26 14:55:17
+downloaded: 109556598
+size: 109556598
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 9eb7b42d-da4d-452d-a20a-34ef4d5da248
+file: normal_6046808f8b65a.pdf
+category: 10
+state: 100
+folder: /home/mazhar/Downloads/Documents
+date: 2021-07-04 13:42:13
+downloaded: 79511
+size: 79511
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: c0e23212-7c28-4499-8664-672d9f22aa4d
+file: Titans__Season_01_Episode_11_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:33:16
+downloaded: 107331479
+size: 107331479
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: b20e29ee-d3e9-4ab0-98e3-94beae78360d
+file: Superman_and_Lois_S01E07_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-27 12:48:23
+downloaded: 105856564
+size: 105856564
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 9e4c6b19-df37-40ce-955a-d4936b2362e6
+file: Titans_S02E03_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:37:27
+downloaded: 118553429
+size: 118553429
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: f17485c8-9edf-489a-a97b-576714557f68
+file: Titans__Season_01_Episode_02_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-23 17:57:51
+downloaded: 109308597
+size: 109308597
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 39cbf415-d0c2-46f2-b26b-c33f6d97db65
+file: Lucifer__Season_02_Episode_16_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-27 15:55:22
+downloaded: 109848783
+size: 109848783
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 1823be8b-2184-4882-ab0a-87fedc51ebef
+file: Lucifer__Season_01_Episode_13-Season-Finale_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-23 15:52:26
+downloaded: 109496801
+size: 109496801
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: d0b921f5-baa4-4369-badf-e9e214e6a831
+file: Titans_S02E09_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:41:31
+downloaded: 116084948
+size: 116084948
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 5baa25bc-5fcb-4383-98b1-02042a3afd0a
+file: The_Boys_S02E05_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-22 09:10:59
+downloaded: 150934432
+size: 150934432
+progress: 93
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 87612324-517e-4cab-8b9e-e648c28b8828
+file: typora-master.zip
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-23 16:46:45
+downloaded: 658477
+size: 658477
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: dd20008f-7e64-4a4b-8d6c-356e1c5a20db
+file: Lucifer_S03E24_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:20:32
+downloaded: 108866236
+size: 108866236
+progress: 87
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 81659297-eb98-404f-b544-33fcae8b18d7
+file: Infinix_Flash_Tool_v1.0.zip
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-07-09 12:33:12
+downloaded: 41897754
+size: 41897754
+progress: 75
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 48fd21f5-b981-484a-8b2a-11d998712aa3
+file: Lucifer_S04E10_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:25:40
+downloaded: 137388027
+size: 137388027
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 51bd3ebc-ab98-41fe-8685-537747f44808
+file: Lucifer_S05E14_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:14:24
+downloaded: 145299530
+size: 145299530
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: d7ec623e-3a79-48b0-8f69-e3f966f8a243
+file: uBlogger-master.zip
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-29 13:52:39
+downloaded: 17085094
+size: 17085094
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: e1279173-1f90-46c5-b0a1-2a2174a82d17
+file: Lucifer_S05E08_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:11:42
+downloaded: 156813816
+size: 156813816
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 45345d2b-cc40-4f2e-bedc-44c416ac8b2a
+file: Lucifer__Season_02_Episode_17_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-27 15:55:54
+downloaded: 108195872
+size: 108195872
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: b9d5c246-f689-483a-802e-f005ebcd1300
+file: Lucifer_S04E08_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:24:53
+downloaded: 127377924
+size: 127377924
+progress: 93
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 97f3e6b3-0415-4140-b2f1-390a6082c081
+file: Lucifer__Season_02_Episode_05_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-25 10:04:05
+downloaded: 109240798
+size: 109240798
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 1a19cb31-dc35-464f-9599-0ef8b8a38cf4
+file: Lucifer_S03E06_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-28 13:14:44
+downloaded: 108119455
+size: 108119455
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 22899ae5-8885-4b67-afcf-3ff3c014e55b
+file: Lucifer_S04E04_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:17:46
+downloaded: 120484896
+size: 120484896
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 8e5497e0-d37b-48e8-bd35-1491757b56f8
+file: com.area120.paperwork_1.27.377005381.release-4668_minAPI24(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk
+category: 60
+state: 100
+folder: /home/mazhar/Downloads
+date: 2021-07-06 15:48:20
+downloaded: 82808081
+size: 82808081
+progress: 87
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: ac4e6b05-b1fc-4eaf-a08b-6366b8ac0c6c
+file: Titans__Season_01_Episode_07_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:29:19
+downloaded: 120003818
+size: 120003818
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: fd25df14-9edd-4651-8ab6-07bc982c03e1
+file: Legends_of_Tomorrow_S06E08_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-29 16:15:56
+downloaded: 105977475
+size: 105977475
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 553d1760-5fc0-4ea2-a44d-981b13092910
+file: Fluent-Typora-2.0.tar.gz
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-23 16:48:45
+downloaded: 1954315
+size: 1954315
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: b691f418-3c83-4615-bc5f-215d76f194be
+file: Loki_S01E04_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-30 16:14:43
+downloaded: 116739292
+size: 116739292
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 179bd43b-4c85-40b1-bc4b-681df2eb1012
+file: Lucifer__Season_02_Episode_08_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-26 09:39:51
+downloaded: 107890411
+size: 107890411
+progress: 87
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 2a07bdb7-1c6a-4ac3-a18b-5d09e79f0be5
+file: gtkmm-tutorial-html-4.0.1.tar.gz
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-26 13:36:41
+downloaded: 16353617
+size: 16353617
+progress: 76
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 44cda1b2-18e2-4065-a7ee-5f99d1a0f7c5
+file: Superman_and_Lois_S01E09_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-09 16:48:01
+downloaded: 109447671
+size: 109447671
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 85ce139b-c74a-4c61-931c-4657176b67a9
+file: Titans__Season_01_Episode_10_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:32:39
+downloaded: 100590702
+size: 100590702
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: d5a038f2-8734-4240-a8ea-3203dbfc9136
+file: Lucifer_S05E01_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:27:00
+downloaded: 126911434
+size: 126911434
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: bbcc4074-0706-4692-bab0-da4354588fe3
+file: The_Flash_S07E13_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-16 15:43:07
+downloaded: 106162607
+size: 106162607
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 615b504c-0989-4373-899d-47b51be932b0
+file: Lucifer__Season_02_Episode_14_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-26 14:55:29
+downloaded: 108413289
+size: 108413289
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: a3477034-788f-4861-a454-494362b616e8
+file: Lucifer_S05E03_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:30:25
+downloaded: 133578885
+size: 133578885
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: fd7486c4-5bad-4fb0-a6ce-471abab27bce
+file: Lucifer__Season_02_Episode_12_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-26 09:42:55
+downloaded: 110285222
+size: 110285222
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: f686d1c2-9a4f-44a6-9abc-385ae1f52ae4
+file: The_Flash_S07E12_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-09 16:48:36
+downloaded: 106126517
+size: 106126517
+progress: 85
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 8cd4b7b5-f58b-49ca-b006-28e0d66bebe7
+file: Lucifer_S03E05_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-28 13:13:25
+downloaded: 110723242
+size: 110723242
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 28d48e5b-1ba9-4ce1-b44b-15e4158822d0
+file: Lucifer_S03E16_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:17:18
+downloaded: 109192265
+size: 109192265
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 00b1936f-506d-4f41-befe-0ef64aa837dd
+file: Lucifer__Season_02_Episode_01_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-25 10:00:57
+downloaded: 109606282
+size: 109606282
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 95d1c993-76b6-4f04-8312-3149fb525906
+file: pingpdf.com_fundamental-accounting-principles-20th-edition-ins.pdf
+category: 10
+state: 100
+folder: /home/mazhar/Downloads/Documents
+date: 2021-06-17 10:44:13
+downloaded: 40123
+size: 40123
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: f04179a3-5959-4716-82b7-a7770467cc50
+file: Lucifer__Season_03_Episode_01_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-27 16:20:04
+downloaded: 110112219
+size: 110112219
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 3c6bad22-9aa2-4e58-9f0f-1786bbca06b3
+file: Batwoman_S02E17_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-22 09:18:39
+downloaded: 106318618
+size: 106318618
+progress: 86
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 33ef715e-f89e-4f4f-bba2-09877d88274f
+file: Legends_of_Tomorrow_S06E06_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-14 17:35:18
+downloaded: 105921635
+size: 105921635
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 646a3e77-f1e7-4877-91d5-5bb4585d0c6e
+file: Lucifer_S05E05_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:32:30
+downloaded: 137907052
+size: 137907052
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 18513a22-08b8-44ad-978f-d08195928099
+file: The_Boys_S01E04_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-20 17:48:19
+downloaded: 140434286
+size: 140434286
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: b0c659c3-9920-4e5a-80a3-8b424773be8b
+file: Titans_S02E10_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:42:04
+downloaded: 108271551
+size: 108271551
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 7a3d952c-031b-4298-9e57-dc63b4b703ad
+file: Lucifer_S04E03_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:17:04
+downloaded: 122856402
+size: 122856402
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 11a211da-9ef6-4036-88fd-e9fe21545c85
+file: The_Boys_S02E03_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-22 09:04:08
+downloaded: 145296938
+size: 145296938
+progress: 93
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 4a68241f-18b5-4d2a-9000-cd828723b455
+file: Lucifer__Season_02_Episode_10_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-26 09:42:06
+downloaded: 110732655
+size: 110732655
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 11704ac2-30a6-47ee-afdd-d4cbf7bad2e2
+file: The_Boys_S01E05_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-20 17:49:06
+downloaded: 147841834
+size: 147841834
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: f0b7bd43-32e9-46d0-a846-6aaa5f02c7d5
+file: Titans__Season_01_Episode_06_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:28:46
+downloaded: 118964035
+size: 118964035
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 5734cea8-88a1-44fb-b12b-884185c158c4
+file: Lucifer_S05E13_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:13:56
+downloaded: 151863959
+size: 151863959
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 47e2caac-ac59-4db8-a5f4-e193e4b92a41
+file: typora-github-night-theme-0.5.0.tar.gz
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-23 16:46:11
+downloaded: 8005814
+size: 8005814
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 22331258-f536-4fa7-a294-e653311c8f4c
+file: Lucifer_S03E22_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:20:01
+downloaded: 108532072
+size: 108532072
+progress: 86
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 8c634af9-8500-4aa8-a0b2-2572fa1a27fd
+file: Diff-of-Islamic-vs-Conventional-Product.pdf
+category: 10
+state: 130
+folder: /home/mazhar/Downloads/Documents
+date: 2021-07-10 14:35:21
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 2b5165ae-8d5d-4a4b-8785-b6f73bdbe308
+file: The_Boys_S02E02_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-20 17:56:38
+downloaded: 147532785
+size: 147532785
+progress: 94
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 9a16c595-44df-4429-afba-cd5b243046bf
+file: Titans__Season_01_Episode_04_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:25:42
+downloaded: 113352315
+size: 113352315
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: cb71856d-22b6-4586-bfcc-6f9d2c6c66f0
+file: Legends_of_Tomorrow_S06E04_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-07 10:13:22
+downloaded: 105933479
+size: 105933479
+progress: 93
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 6132946b-b3be-44ac-a7a6-163a46f59d76
+file: Superman_and_Lois_S01E11_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-23 12:58:35
+downloaded: 104869479
+size: 104869479
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: e90b27ea-a3a1-4939-9f26-36a7fa214ab4
+file: Legends_of_Tomorrow_S06E07_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-22 09:18:04
+downloaded: 106295666
+size: 106295666
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 56ee7518-0d9f-4692-8644-da227a30b978
+file: dt-gdm.zip
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-07-13 09:20:57
+downloaded: 2549713
+size: 2549713
+progress: 41
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: a95cd73a-3b72-4c49-bc4f-8facb89746a6
+file: Titans__Season_01_Episode_09_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:30:48
+downloaded: 115264900
+size: 115264900
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 83ccacc5-2e9b-4938-a069-0ba82a9133b2
+file: Titans_S02E01_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:36:06
+downloaded: 130829946
+size: 130829946
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 9b891988-67b1-4b9c-8c40-bffb8496365e
+file: Legends_of_Tomorrow_S06E03_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-07 10:12:59
+downloaded: 105637085
+size: 105637085
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 776008a9-c395-4a83-ada7-7a9eb7b64e16
+file: Superman_and_Lois_S01E10_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-16 15:42:46
+downloaded: 111094879
+size: 111094879
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: e40d4541-b319-4cb4-9cc2-0b52804eb044
+file: CameraGo-signed_androidsage.com.apk
+category: 60
+state: 100
+folder: /home/mazhar/Downloads
+date: 2021-07-09 12:31:18
+downloaded: 12589115
+size: 12589115
+progress: 58
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: a7295ee4-bc9a-4193-9603-b4871622eb72
+file: Lucifer_S05E04_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:32:13
+downloaded: 137210988
+size: 137210988
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 9cfe7b5b-45f6-4316-8dbe-0d2d3a68d8a9
+file: Lucifer_S05E12_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:13:35
+downloaded: 147122373
+size: 147122373
+progress: 86
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 0797f412-26f0-4bc6-b763-72e693a7d5af
+file: Lucifer__Season_03_Episode_02_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-27 16:20:23
+downloaded: 111262916
+size: 111262916
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 3bd153f1-da8b-40db-b9a3-0c721e688fef
+file: Lucifer_S03E08_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-28 13:17:11
+downloaded: 108763181
+size: 108763181
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 72133b1a-697b-4f44-8f42-0f8e2c09ebbb
+file: Lucifer_S04E07_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:24:27
+downloaded: 121168475
+size: 121168475
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 24994cb5-6340-47c2-89ea-1dd9fe3cfa2c
+file: Doctors React To Medical Stand Up Comedy.mp4
+category: 30
+state: 100
+date: 2021-06-15 17:25:36
+downloaded: 27779482
+size: 27779482
+progress: 75
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 0f3d961d-3ab7-44a2-b9d7-d182172dc4ec
+file: Lucifer__Season_02_Episode_02_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-25 10:01:30
+downloaded: 109125308
+size: 109125308
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: d3e087aa-0179-492c-b0bf-92604d5daf5e
+file: Legends_of_Tomorrow_S06E02_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-07 10:12:37
+downloaded: 104535335
+size: 104535335
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 4c2654eb-3425-4ece-ae1c-c82ec2003a7c
+file: snet.jar
+category: 20
+state: 100
+folder: /home/mazhar/Downloads/Programs
+date: 2021-07-09 13:03:59
+downloaded: 57732
+size: 57732
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 79f9e749-1088-4905-afb5-12035f99e9aa
+file: Lucifer_S04E09_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:25:24
+downloaded: 125321613
+size: 125321613
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 10a59e8c-7571-490b-9410-8263bc7b8ae7
+file: spec.pdf
+category: 10
+state: 100
+folder: /home/mazhar/Downloads/Documents
+date: 2021-06-11 18:35:47
+downloaded: 1044396
+size: 1044396
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 5e8a5ec9-4907-4939-b725-0528c5905d14
+file: Alacritty-v0.8.0-installer.msi
+category: 20
+state: 100
+folder: /home/mazhar/Downloads/Programs
+date: 2021-06-08 14:36:16
+downloaded: 2019328
+size: 2019328
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 728cefbf-dfa0-4593-bb4a-f01c8bb94db5
+file: Mainroad-master.zip
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-29 12:48:29
+downloaded: 300155
+size: 300155
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 376f4083-bae6-4ea5-9fc2-aad922624af6
+file: Patari _ Bandar.mp4
+category: 30
+state: 100
+date: 2021-07-03 12:14:01
+downloaded: 3717034
+size: 3717034
+progress: 28
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: bda7baeb-a39d-408a-9406-b4d6fab43a62
+file: The_Boys_S02E08_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-22 09:13:22
+downloaded: 167603617
+size: 167603617
+progress: 93
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 429069b6-6dce-419c-8d25-aec35959a838
+file: Lucifer__Season_02_Episode_18-Season-Finale_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-27 15:56:26
+downloaded: 110263332
+size: 110263332
+progress: 87
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 4735a708-a4bd-4a94-a22f-42c574cebdbb
+file: Lucifer_S05E07_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:11:24
+downloaded: 138037455
+size: 138037455
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: aabff7d8-401a-49e7-9112-9e14c016a2f0
+file: Titans_S02E06_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:39:01
+downloaded: 107320136
+size: 107320136
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 0ffda579-27dc-4ffb-8437-40ab37c5b086
+file: Lucifer__Season_01_Episode_12_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-23 15:52:14
+downloaded: 110201628
+size: 110201628
+progress: 94
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 75648cbb-da04-4742-8010-7fd6dfcce8a1
+file: Lucifer_S03E19_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:19:11
+downloaded: 109196252
+size: 109196252
+progress: 83
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b6df816a-4b86-4c69-8de9-bc150f1e7675
+file: creating-metacity-themes-html-2.34.13.tar.gz
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-07-14 15:55:18
+downloaded: 59306
+size: 59306
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 172724d5-4157-4eb1-be3c-43c3eea93417
+file: mariadb_tutorial.pdf
+category: 10
+state: 100
+folder: /home/mazhar/Downloads/Documents
+date: 2021-06-07 15:07:40
+downloaded: 1165823
+size: 1165823
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 9575d16f-d893-417b-8828-3abe38eb10db
+file: Lucifer_S03E23_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:20:18
+downloaded: 109053103
+size: 109053103
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: dcb00353-53a2-41df-a721-a46ecd1d8e9f
+file: guix-binary-1.3.0.x86_64-linux.tar.xz
+category: 60
+state: 130
+folder: /home/mazhar/Downloads
+date: 2021-06-12 15:47:47
+downloaded: 16384
+size: 91030312
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 00b89641-f283-41cb-9ab6-d9e638fa8ca9
+file: The_Flash_S07E14_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-23 12:59:01
+downloaded: 104299544
+size: 104299544
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: f9a83343-c8d2-4151-9f57-04a427cb1afe
+file: Loki_S01E02_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-16 15:42:27
+downloaded: 130602745
+size: 130602745
+progress: 93
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 8ac0d070-5973-4fc2-a00c-3b468897de34
+file: Lucifer__Season_02_Episode_07_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-25 17:48:45
+downloaded: 109504069
+size: 109504069
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 5edb2037-ab41-4fc7-b5df-e51dc17ce320
+file: Lucifer__Season_02_Episode_09_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-26 09:40:40
+downloaded: 109464129
+size: 109464129
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: eed6ef50-7fa3-4b6c-83f5-033236a1713a
+file: Lucifer_S05E15_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:14:39
+downloaded: 156306712
+size: 156306712
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: cd53f2b6-a633-4422-803d-725f35584c29
+file: Lucifer_S05E16_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:14:58
+downloaded: 132866975
+size: 132866975
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 976faaa5-07d0-406d-812e-c3675bc78144
+file: Lucifer_S03E04_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-28 13:10:54
+downloaded: 110172642
+size: 110172642
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 9b755dcc-354f-4c72-a297-2a9b87cb400e
+file: Batwoman_S02E16_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-14 17:34:52
+downloaded: 106892641
+size: 106892641
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 5e12967c-0778-4c18-86cb-8931694ef72b
+file: The_Boys_S01E06_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-20 17:49:51
+downloaded: 149431061
+size: 149431061
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 2e264a99-e9f5-4607-ae98-d4e4c4434966
+file: Fluent-Typora-2.0.tar_1.gz
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-23 17:02:45
+downloaded: 1954315
+size: 1954315
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: b32883fa-21bd-4f2b-a461-a0469cc1bef9
+file: The_Boys_S01E07_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-20 17:51:26
+downloaded: 141323287
+size: 141323287
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 79b9f4af-2148-4fa2-bf22-d31cae1a0cd8
+file: prepostseo-1623998014.doc
+category: 10
+state: 130
+folder: /home/mazhar/Downloads/Documents
+date: 2021-06-18 11:33:38
+downloaded: 0
+size: 0
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: e271a598-cd44-4fa4-b48d-16c3cd315bce
+file: Titans__Season_01_Episode_05_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:27:23
+downloaded: 103599944
+size: 103599944
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 5367b985-e7bf-467f-a8df-76508350af81
+file: Lucifer_S03E17_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:17:34
+downloaded: 108405092
+size: 108405092
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 32b136ca-a416-465c-ba6e-95ca02d4b22c
+file: Lucifer_S03E15_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:17:00
+downloaded: 109228906
+size: 109228906
+progress: 85
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 88db884e-02a9-4b48-a450-1081e3295e98
+file: Lucifer_S04E06_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:24:05
+downloaded: 123758193
+size: 123758193
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: b44399b1-7dcc-4d51-bee8-1bc3d06a9121
+file: typora-gitbook-theme-1.10.2.tar.gz
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-23 16:47:14
+downloaded: 2402128
+size: 2402128
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: a4e4b02e-ad30-42bf-a86c-4da897fabca4
+file: Titans_S02E04_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:37:58
+downloaded: 109755039
+size: 109755039
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 92e72a2b-e803-4517-8a3b-efed7bfcd6d8
+file: Lucifer__Season_02_Episode_15_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-26 14:56:30
+downloaded: 109151553
+size: 109151553
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 8f25b61b-b624-4c04-8d41-41f11abf5b15
+file: Titans_S02E07_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:40:10
+downloaded: 107070417
+size: 107070417
+progress: 94
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: eaa9d0fd-b95e-45d6-a86a-1dca27cedbd1
+file: Lucifer__Season_02_Episode_03_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-25 10:02:42
+downloaded: 109583614
+size: 109583614
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: a5b5d383-c4c9-4455-8fc1-1ce5cfe397fe
+file: The_Boys_S02E06_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-22 09:11:41
+downloaded: 162491642
+size: 162491642
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 32d17899-5cf1-405e-8128-e82ef93d8158
+file: The_Flash_S07E16_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-07 13:07:07
+downloaded: 106810725
+size: 106810725
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: e64672a9-73fc-46af-88bb-1d24d7880571
+file: Lucifer_S05E09_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:12:10
+downloaded: 137022875
+size: 137022875
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 174d78e4-53d6-4d7c-87ca-777dd9d724e4
+file: Lucifer__Season_02_Episode_04_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-25 10:03:25
+downloaded: 104852109
+size: 104852109
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: d260501d-edeb-41de-8c62-dda10aee3132
+file: Titans__Season_01_Episode_03_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:24:22
+downloaded: 138922779
+size: 138922779
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: fb37bef4-0828-45fd-b331-74724296bec9
+file: Terms-Conditions.pdf
+category: 10
+state: 100
+folder: /home/mazhar/Downloads/Documents
+date: 2021-07-10 15:08:13
+downloaded: 916301
+size: 916301
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 916f0c4a-32fe-4120-8a3a-4df5062d05d2
+file: Lucifer_S03E20_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:19:30
+downloaded: 109170420
+size: 109170420
+progress: 87
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 2b69c37f-e699-4f3a-bff0-cdbbd4b88e23
+file: Titans__Season_01_Episode_08_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:30:03
+downloaded: 109529961
+size: 109529961
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: f900ce5a-61ab-4c8c-95cd-2fb9e32410b9
+file: Lucifer__Season_02_Episode_06_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-25 17:48:11
+downloaded: 107248459
+size: 107248459
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: e687f86f-1c34-4af4-b960-7fc5af55859f
+file: Loki_S01E06_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-14 13:04:11
+downloaded: 110525417
+size: 110525417
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 71a46e87-35f1-42ce-894d-dccd1763858f
+file: Superman_and_Lois_S01E08_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-07 10:07:53
+downloaded: 111902835
+size: 111902835
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 1f9c5f28-09ec-4062-80f9-d5e246c5e480
+file: The_Flash_S07E15_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-30 16:17:32
+downloaded: 103623203
+size: 103623203
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 8869d441-3651-4046-8d75-35e28a5b0762
+file: Loki_S01E05_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-07 13:06:52
+downloaded: 118420003
+size: 118420003
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: f3394824-8a70-4747-9177-948853cebbfa
+file: High_Ubunterra_DD-2.4(Pass).tar.xz
+category: 60
+state: 100
+folder: /home/mazhar/Downloads
+date: 2021-07-13 09:23:55
+downloaded: 900952
+size: 900952
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 2fa1ba41-0302-4527-bece-f085d4d35235
+file: Lucifer_S03E07_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-28 13:16:51
+downloaded: 108768144
+size: 108768144
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: eef0fb8f-f9df-4364-9aec-e6f7731c1df5
+file: The_Boys_S02E04_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-22 09:10:37
+downloaded: 168880473
+size: 168880473
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 73a1ce39-bad1-40fe-889e-f76d34182c4e
+file: Lucifer_S05E10_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-31 15:12:34
+downloaded: 148873129
+size: 148873129
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 4e844c90-3460-46d9-b039-128a2ecf42a3
+file: Lucifer__Season_02_Episode_11_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-26 09:42:38
+downloaded: 107901926
+size: 107901926
+progress: 93
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: fcdac628-a658-42f9-ae1f-a6cf325eec29
+file: The_Boys_S02E07_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-22 09:12:08
+downloaded: 136133581
+size: 136133581
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: a0c28b0e-8d3e-4c34-ae4c-45752e85ee6d
+file: Loki_S01E03_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-23 12:58:11
+downloaded: 99347432
+size: 99347432
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 803fe0c1-4133-480c-914e-684d704949b0
+file: funnyboat_1.5-11_all.deb
+category: 20
+state: 100
+folder: /home/mazhar/Downloads/Programs
+date: 2021-07-09 17:24:01
+downloaded: 3759152
+size: 3759152
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 0cb43741-8d82-4408-b9b7-7e72f101d379
+file: UltraCVM_v4.apk
+category: 60
+state: 100
+folder: /home/mazhar/Downloads
+date: 2021-07-09 12:30:23
+downloaded: 78548573
+size: 78548573
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 596f35f7-e457-4fc2-a69e-02df9fd95fd8
+file: Titans_S02E08_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:40:37
+downloaded: 121332967
+size: 121332967
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: bbab00b9-cdef-49cd-b6ae-440a08fb2ac8
+file: gtkmm-documentation-master-docs-tutorial-C.tar.bz2
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-07-04 10:10:57
+downloaded: 1439508
+size: 1439508
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 1b0654f4-65eb-419d-9197-9de6359caa74
+file: Lucifer_S03E03_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-28 13:10:32
+downloaded: 109938344
+size: 109938344
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 5feabcd7-2a21-455e-aa2c-048ddd49b3cb
+file: The_Flash_S07E11_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-27 12:49:15
+downloaded: 105911550
+size: 105911550
+progress: 82
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 84292354-df7d-4edc-a7eb-abd3e4b4ad8f
+file: refman-8.0-en.html-chapter.zip
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-07 14:55:54
+downloaded: 9800409
+size: 9800409
+progress: 64
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: e5a035ef-206d-43f3-b9e7-b260abd70b0f
+file: Lucifer_S03E14_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-29 22:10:07
+downloaded: 108935873
+size: 108935873
+progress: 95
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 8a8044e1-8bc5-4394-b042-ef3463dcf2e1
+file: Lucifer_S03E13_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-29 22:08:56
+downloaded: 108432193
+size: 108432193
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 342e66b2-b72e-45f1-b6c5-1670c7b25178
+file: Titans__Season_01_Episode_01_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-23 17:55:17
+downloaded: 125765257
+size: 125765257
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 4fdc55bd-9ed5-438c-a3db-3865372b2c25
+file: Magisk-v23.0.apk
+category: 60
+state: 100
+folder: /home/mazhar/Downloads
+date: 2021-07-09 13:03:54
+downloaded: 6874374
+size: 6874374
+progress: 61
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: cfc7e957-c0db-42c3-938e-35dccf00c569
+file: Lucifer_S04E01_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:15:54
+downloaded: 119410224
+size: 119410224
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: c94a066c-caee-4e0d-8c3f-45135ab5dad7
+file: The_Boys_S01E03_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-19 17:34:57
+downloaded: 135735471
+size: 135735471
+progress: 94
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 14c8450e-03d6-4f28-a128-4d0e174aafcb
+file: Titans_S02E02_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:36:39
+downloaded: 102444520
+size: 102444520
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 56ff3362-a34c-4a92-be92-47200eba60af
+file: Lucifer_S04E05_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:21:05
+downloaded: 124536883
+size: 124536883
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 8be337a9-c085-4d25-a25e-259a19edd935
+file: The_Boys_S01E08_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-20 17:51:56
+downloaded: 166579141
+size: 166579141
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: d1216c0d-3348-4d5b-b85a-fe8d673df7b8
+file: Titans_S02E13_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-24 16:44:02
+downloaded: 123059955
+size: 123059955
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 04144ca7-888b-4095-a730-49ced7baaa6c
+file: GitHubDesktop-linux-2.9.0-linux2.AppImage
+category: 60
+state: 100
+folder: /home/mazhar/Downloads
+date: 2021-07-04 16:21:09
+downloaded: 101014558
+size: 101014558
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 1ced1509-7ac3-4835-9000-1a653484ee11
+file: hwsoln06.pdf
+category: 10
+state: 100
+folder: /home/mazhar/Downloads/Documents
+date: 2021-06-16 11:44:55
+downloaded: 87308
+size: 87308
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: a27ff27c-ff54-44c2-86ed-917a43fef6fa
+file: Legends_of_Tomorrow_S06E01_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-07 10:12:10
+downloaded: 105057553
+size: 105057553
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: b7bfff0a-ab5d-4519-a378-8589bc0485ed
+file: Batwoman_S02E18_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-29 16:18:12
+downloaded: 107906910
+size: 107906910
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 02434ab5-3259-4a98-a91c-384f10c3b7de
+file: Legends_of_Tomorrow_S06E05_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-08 17:52:16
+downloaded: 106654832
+size: 106654832
+progress: 89
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: a3b9fa8e-1eae-4ceb-b598-06870eae1982
+file: Batwoman_S02E15_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-09 08:57:14
+downloaded: 106200148
+size: 106200148
+progress: 91
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 8b943667-40d7-47b9-b2c5-84c2f5e21c1c
+file: The_Boys_S02E01_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-06-20 17:54:26
+downloaded: 156708922
+size: 156708922
+progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 89528464-9fa0-48d6-9880-d545ab9a2d75
+file: Lucifer_S03E21_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 16:19:46
+downloaded: 108915641
+size: 108915641
+progress: 86
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: fb75f010-b13e-4710-9e13-9cc57bbc497f
+file: ventoy-1.0.45-linux.tar.gz
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-07 09:59:10
+downloaded: 15378239
+size: 15378239
+progress: 61
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: ec1cbe6b-ab42-448a-855d-3890c40be439
+file: Lucifer_S04E02_kissTVSeries.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-05-30 17:16:16
+downloaded: 123311092
+size: 123311092
+progress: 94
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: d49c3a4c-9bb9-470c-b739-7868e1b70a64
+file: typora-gitlab-theme-1.2.tar.gz
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-06-23 16:47:37
+downloaded: 3796044
+size: 3796044
+progress: 100
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0

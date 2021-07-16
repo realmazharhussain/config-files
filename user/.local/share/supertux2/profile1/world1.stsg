@@ -1,0 +1,337 @@
+(supertux-savegame
+  (version 1)
+  (title "Icy Island (15/29)")
+  (tux
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 947)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("worlds"
+      ("/levels/world1/worldmap.stwm"
+        ("sprite-changes"
+          ("28_50"
+            (show-stay-action #t)
+          )
+          ("28_51"
+            (show-stay-action #f)
+          )
+          ("28_16"
+            (show-stay-action #f)
+          )
+        )
+        ("tux"
+          (y 77)
+          (x 66)
+          (back "east")
+        )
+        ("levels"
+          ("stone_cold.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 66)
+              (secrets-found 0)
+              (time-needed 314.7177)
+              (secrets-found-total 1)
+              (badguys-killed-total 42)
+              (coins-collected-total 76)
+              (badguys-killed 42)
+            )
+            (solved #t)
+          )
+          ("yeti_cutscene.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("more_snowballs.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 46)
+              (secrets-found 0)
+              (time-needed 231.1864)
+              (secrets-found-total 0)
+              (badguys-killed-total 33)
+              (coins-collected-total 80)
+              (badguys-killed 19)
+            )
+            (solved #t)
+          )
+          ("castle_of_nolok.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("between_glaciers.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("entrance_cave.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 79)
+              (secrets-found 1)
+              (time-needed 461.7261)
+              (secrets-found-total 1)
+              (badguys-killed-total 38)
+              (coins-collected-total 83)
+              (badguys-killed 38)
+            )
+            (solved #t)
+          )
+          ("end_of_tunnel.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("night_chill.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 67)
+              (secrets-found 1)
+              (time-needed 348.9661)
+              (secrets-found-total 1)
+              (badguys-killed-total 43)
+              (coins-collected-total 68)
+              (badguys-killed 42)
+            )
+            (solved #t)
+          )
+          ("under_the_ice.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 14)
+              (secrets-found 0)
+              (time-needed 491.6503)
+              (secrets-found-total 1)
+              (badguys-killed-total 60)
+              (coins-collected-total 102)
+              (badguys-killed 7)
+            )
+            (solved #t)
+          )
+          ("crystal_mine.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("into_stars.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 25)
+              (secrets-found 0)
+              (time-needed 643.4484)
+              (secrets-found-total 0)
+              (badguys-killed-total 46)
+              (coins-collected-total 72)
+              (badguys-killed 18)
+            )
+            (solved #t)
+          )
+          ("intro.stl"
+            (perfect #f)
+            (solved #t)
+          )
+          ("path_in_the_clouds.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("miyamoto_monument.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("icy_valley.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("frozen_bridge.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("somewhat_smaller_bath.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 83)
+              (secrets-found 1)
+              (time-needed 305.3636)
+              (secrets-found-total 1)
+              (badguys-killed-total 40)
+              (coins-collected-total 83)
+              (badguys-killed 40)
+            )
+            (solved #t)
+          )
+          ("shattered_bridge.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("ice_in_the_hole.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("via_nostalgica.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 39)
+              (secrets-found 0)
+              (time-needed 124.0008)
+              (secrets-found-total 0)
+              (badguys-killed-total 30)
+              (coins-collected-total 39)
+              (badguys-killed 30)
+            )
+            (solved #t)
+          )
+          ("welcome_antarctica.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 105)
+              (secrets-found 1)
+              (time-needed 132.3104)
+              (secrets-found-total 1)
+              (badguys-killed-total 14)
+              (coins-collected-total 105)
+              (badguys-killed 14)
+            )
+            (solved #t)
+          )
+          ("23rd_airborne.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 26)
+              (secrets-found 0)
+              (time-needed 299.1175)
+              (secrets-found-total 1)
+              (badguys-killed-total 44)
+              (coins-collected-total 135)
+              (badguys-killed 18)
+            )
+            (solved #t)
+          )
+          ("above_arctic_skies.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 10)
+              (secrets-found 0)
+              (time-needed 417.3878)
+              (secrets-found-total 1)
+              (badguys-killed-total 46)
+              (coins-collected-total 74)
+              (badguys-killed 7)
+            )
+            (solved #t)
+          )
+          ("living_inside_fridge.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("fork_in_the_road.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 81)
+              (secrets-found 0)
+              (time-needed 289.8384)
+              (secrets-found-total 1)
+              (badguys-killed-total 32)
+              (coins-collected-total 101)
+              (badguys-killed 32)
+            )
+            (solved #t)
+          )
+          ("or_just_me.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("journey_begins.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 37)
+              (secrets-found 0)
+              (time-needed 133.5404)
+              (secrets-found-total 0)
+              (badguys-killed-total 25)
+              (coins-collected-total 37)
+              (badguys-killed 25)
+            )
+            (solved #t)
+          )
+          ("yeti_boss.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("frosted_fields.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 37)
+              (secrets-found 0)
+              (time-needed 271.5506)
+              (secrets-found-total 1)
+              (badguys-killed-total 46)
+              (coins-collected-total 58)
+              (badguys-killed 27)
+            )
+            (solved #t)
+          )
+        )
+        ("tilemaps"
+          ("river"
+            (alpha 1)
+          )
+          ("underground"
+            (alpha 1)
+          )
+          ("Underground_cover"
+            (alpha 0)
+          )
+          ("land"
+            (alpha 1)
+          )
+          ("cave_deco"
+            (alpha 1)
+          )
+          ("Underground_darkness"
+            (alpha 1)
+          )
+          ("higher"
+            (alpha 1)
+          )
+          ("ocean_deco"
+            (alpha 1)
+          )
+          ("Underground_mask"
+            (alpha 1)
+          )
+          ("Land_foreground_1"
+            (alpha 0)
+          )
+          ("Land_foreground_2"
+            (alpha 0)
+          )
+          ("Land_foreground_3"
+            (alpha 0)
+          )
+          ("Land_foreground_4"
+            (alpha 0)
+          )
+          ("pathing"
+            (alpha 1)
+          )
+          ("castle"
+            (alpha 1)
+          )
+          ("ocean"
+            (alpha 1)
+          )
+          ("deco"
+            (alpha 1)
+          )
+          ("front_waves"
+            (alpha 1)
+          )
+        )
+      )
+    )
+    (underground #t)
+  )
+)

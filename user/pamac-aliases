@@ -1,0 +1,21 @@
+alias ud='pamac checkupdates'
+#alias lug='apt list --upgradable'
+alias ug='sudo pacman -Syu'
+alias fug='pamac upgrade'
+
+alias list='pacman -Sl'
+alias show='pamac info'
+
+alias ins='pamac install'
+alias lins='pacman -Q'
+alias rmv='pamac remove'
+#alias armv='sudo apt autoremove'
+#alias purge='sudo apt purge'
+
+#alias apt='sudo apt'
+#alias dpkg='sudo dpkg'
+#alias dins='sudo dpkg -i'
+
+alias clean='pamac clean -k 0; pamac clean -b; yay -Scc'
+alias srch='pacman -Sl | cut -d " " -f 2- | grep'
+alias srchi='pacman -Q | grep'

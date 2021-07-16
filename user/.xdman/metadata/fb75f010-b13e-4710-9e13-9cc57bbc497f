@@ -1,0 +1,6 @@
+type: 1000
+url: https://github-releases.githubusercontent.com/246335987/0592ff80-c0b7-11eb-9f1d-bb6ce5ec8a49?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210607T045906Z&X-Amz-Expires=300&X-Amz-Signature=219b0b0cf17186ae4a9719e0daec287f082c9b6ddb817100dbb24d711fcdd171&X-Amz-SignedHeaders=host&actor_id=67191572&key_id=0&repo_id=246335987&response-content-disposition=attachment%3B%20filename%3Dventoy-1.0.45-linux.tar.gz&response-content-type=application%2Foctet-stream
+size: 15378239
+header: host:github-releases.githubusercontent.com
+header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+header: referer:https://github.com/ventoy/Ventoy/releases

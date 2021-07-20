@@ -1,9 +1,9 @@
 # My custom aliases
 
-alias s=sudo
-alias q=exit
+alias s='sudo'
+alias q='exit'
 
-alias mkdir='mkdir -p'
+alias mkdir='mkdir --parents'
 alias chown='sudo chown'
 #alias chmod='sudo chmod'
 
@@ -13,18 +13,20 @@ alias chown='sudo chown'
 #alias py3=python3
 #alias python=python3
 
-#Disabled in .bashrc file
-
-alias ls='ls --color=auto'
 alias dir='dir --color=auto'
 alias vdir='vdir --color=auto'
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
+#alias ls='command ls --color=auto'
 
-alias ll='ls -Alh'
-alias la='ls -A'
-alias l='ls -ACF'
+#alias ll='command ls --almost-all -l --si'
+#alias la='command ls --almost-all'
+#alias l='command ls --almost-all -C --classify'
+
+alias ls='command exa --icons --group-directories-first'
+alias ll='command exa --icons --all --group-directories-first --long'
+alias l='command exa --icons --all --group-directories-first --grid'
 
 alias gtc='git commit'
 alias gtcl='git clone'
@@ -33,6 +35,6 @@ alias gts='git status'
 alias gtp='git push'
 alias gtpl='git pull'
 
-alias locate=plocate
+alias locate='plocate'
 
 [ -f ~/pkg-aliases ] && source ~/pkg-aliases

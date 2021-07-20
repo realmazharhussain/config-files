@@ -1,4 +1,4 @@
-173
+175
 11
 id: cd32af21-4854-42d0-bdc6-31301efc6cd2
 file: The_Boys_S01E01_kissTVSeries.com.mp4.mp4
@@ -447,6 +447,19 @@ date: 2021-06-24 16:29:19
 downloaded: 120003818
 size: 120003818
 progress: 92
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: c995f3b5-b642-4025-a8b8-8277654daafb
+file: libadwaita-wip-exalm-borderless-src-stylesheet.tar.bz2
+category: 50
+state: 100
+folder: /home/mazhar/Downloads/Compressed
+date: 2021-07-20 17:44:12
+downloaded: 26739
+size: 26739
+progress: 0
 tempfolder: /home/mazhar/.xdman/temp
 queueid: 
 formatIndex: 0
@@ -1078,6 +1091,19 @@ folder: /home/mazhar/Downloads/Programs
 date: 2021-07-09 13:03:59
 downloaded: 57732
 size: 57732
+progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+12
+id: 0ed79189-7257-4bbe-b5fe-fa9b73f74a3b
+file: Setup_File_Magic_2021.exe
+category: 20
+state: 100
+folder: /home/mazhar/Downloads/Programs
+date: 2021-07-19 11:09:32
+downloaded: 1292488
+size: 1292488
 progress: 0
 tempfolder: /home/mazhar/.xdman/temp
 queueid: 

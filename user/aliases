@@ -18,13 +18,13 @@ alias vdir='vdir --color=auto'
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
-#alias ls='command ls --color=auto'
+alias ls='ls --color=auto'
 
-#alias ll='command ls --almost-all -l --si'
-#alias la='command ls --almost-all'
-#alias l='command ls --almost-all -C --classify'
+#alias ll='ls --almost-all -l --si'
+#alias la='ls --almost-all'
+#alias l='ls --almost-all -C --classify'
 
-alias ls='command exa --icons --group-directories-first'
+#alias ls='command exa --icons --group-directories-first'
 alias ll='command exa --icons --all --group-directories-first --long'
 alias l='command exa --icons --all --group-directories-first --grid'
 

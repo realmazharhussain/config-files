@@ -1,4 +1,4 @@
-175
+181
 11
 id: cd32af21-4854-42d0-bdc6-31301efc6cd2
 file: The_Boys_S01E01_kissTVSeries.com.mp4.mp4
@@ -329,6 +329,18 @@ tempfolder: /home/mazhar/.xdman/temp
 queueid: 
 formatIndex: 0
 11
+id: de55d7a4-87bd-43b4-aac8-389130e54b9c
+file: Legends_of_Tomorrow_S06E10_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-23 09:11:32
+downloaded: 106346661
+size: 106346661
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
 id: 51bd3ebc-ab98-41fe-8685-537747f44808
 file: Lucifer_S05E14_KimoiTV.com.mp4.mp4
 category: 30
@@ -557,6 +569,18 @@ state: 100
 date: 2021-05-30 17:27:00
 downloaded: 126911434
 size: 126911434
+progress: 88
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 16afbada-ff16-4391-9145-30221b65f601
+file: Superman_and_Lois_S01E13_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-23 09:07:13
+downloaded: 112472367
+size: 112472367
 progress: 88
 tempfolder: /home/mazhar/.xdman/temp
 queueid: 
@@ -1095,6 +1119,18 @@ progress: 0
 tempfolder: /home/mazhar/.xdman/temp
 queueid: 
 formatIndex: 0
+11
+id: b84e911e-cf4b-48bd-8fa2-b34ec58c3f6d
+file: The_Flash_S07E17_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-23 09:09:04
+downloaded: 105251479
+size: 105251479
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
 12
 id: 0ed79189-7257-4bbe-b5fe-fa9b73f74a3b
 file: Setup_File_Magic_2021.exe
@@ -1291,6 +1327,18 @@ date: 2021-06-12 15:47:47
 downloaded: 16384
 size: 91030312
 progress: 0
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: 843a3cbc-940f-4d52-aa71-8d0704629af8
+file: The_Flash_S07E18_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-23 09:09:53
+downloaded: 106015417
+size: 106015417
+progress: 89
 tempfolder: /home/mazhar/.xdman/temp
 queueid: 
 formatIndex: 0
@@ -1720,6 +1768,18 @@ tempfolder: /home/mazhar/.xdman/temp
 queueid: 
 formatIndex: 0
 11
+id: e6418fe4-97c4-41df-87ee-8657340fe6c4
+file: Legends_of_Tomorrow_S06E09_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-23 09:11:16
+downloaded: 105948490
+size: 105948490
+progress: 90
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
 id: 2fa1ba41-0302-4527-bece-f085d4d35235
 file: Lucifer_S03E07_KimoiTV.com.mp4.mp4
 category: 30
@@ -1863,6 +1923,18 @@ date: 2021-05-27 12:49:15
 downloaded: 105911550
 size: 105911550
 progress: 82
+tempfolder: /home/mazhar/.xdman/temp
+queueid: 
+formatIndex: 0
+11
+id: c77b93a9-7706-495d-ba1a-cad234b48ea6
+file: Superman_and_Lois_S01E12_KimoiTV.com.mp4.mp4
+category: 30
+state: 100
+date: 2021-07-23 09:06:56
+downloaded: 107139384
+size: 107139384
+progress: 90
 tempfolder: /home/mazhar/.xdman/temp
 queueid: 
 formatIndex: 0

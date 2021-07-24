@@ -17,3 +17,16 @@ runtime! archlinux.vim
 " do not load defaults if ~/.vimrc is missing
 "let skip_defaults_vim=1
 set number
+
+" TAB = 3 Spaces and n TABs (at line-start) becomes 3n Spaces
+set autoindent
+set expandtab
+set copyindent
+set preserveindent
+set shiftround
+set smartindent
+set smarttab
+"set softtabstop=0
+set shiftwidth=3
+set tabstop=3
+   

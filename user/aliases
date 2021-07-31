@@ -1,6 +1,5 @@
 # My custom aliases
 
-alias c='command'
 alias s='sudo'
 alias q='exit'
 

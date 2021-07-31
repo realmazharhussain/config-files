@@ -45,4 +45,13 @@ if status is-interactive
   end
   [ -f /usr/share/autojump/autojump.fish ] && source /usr/share/autojump/autojump.fish
   [ -f ~/aliases ] && source ~/aliases
+  # Colorize 'less' program
+  set -gx LESS '-R'
+  set -gx LESS_TERMCAP_mb (set_color brred)
+  set -gx LESS_TERMCAP_md (set_color brred)
+  set -gx LESS_TERMCAP_me (set_color normal)
+  set -gx LESS_TERMCAP_se (set_color normal)
+  set -gx LESS_TERMCAP_so (set_color -o brblue; set_color -b white)
+  set -gx LESS_TERMCAP_ue (set_color normal)
+  set -gx LESS_TERMCAP_us (set_color green)
 end

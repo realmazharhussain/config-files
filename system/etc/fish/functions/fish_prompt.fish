@@ -1,5 +1,5 @@
 function fish_prompt
-    set -gx __last_command_exit_status $status
+    set -x __last_command_exit_status $status
 
     if not set -q -g __fish_mazharhussain_functions_defined
         set -g __fish_mazharhussain_functions_defined

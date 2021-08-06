@@ -3,5 +3,6 @@ You can put your custom CSS here. It will be appended
 to every theme before it gets set as GDM theme.
 */
 #panel.login-screen {
+  color: rgb(245,245,245);
   background-color: rgba(0,0,0,0.1);
 }

@@ -1,8 +1,10 @@
-/* 
-You can put your custom CSS here. It will be appended
-to every theme before it gets set as GDM theme.
-*/
-#panel.login-screen {
-  color: rgb(245,245,245);
-  background-color: rgba(0,0,0,0.1);
+/* GDM-tools Custom CSS */
+
+#panel .unlock-screen, #panel .login-screen{
+    color: #fff;
+    background-color: rgba(0,0,0,0.15);
+}
+
+#panel, #panel .panel-corner , #panel .panel-button {
+    color: #fff;
 }

@@ -1,3 +1,5 @@
+alias pacman='pacman --color=auto'
+
 alias ud='pamac checkupdates'
 #alias lug='apt list --upgradable'
 alias ug='sudo pacman -Syu'

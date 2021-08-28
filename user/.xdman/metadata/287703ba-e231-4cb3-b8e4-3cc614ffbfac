@@ -1,0 +1,12 @@
+type: 1000
+url: https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf
+size: 943183
+header: host:upload.wikimedia.org
+header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+header: referer:https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md
+header: sec-fetch-dest:document
+header: sec-fetch-mode:navigate
+header: sec-fetch-site:cross-site
+header: sec-fetch-user:?1
+header: Cookie:GeoIP=PK:SD:Karachi:24.92:67.07:v4
+header: Cookie:WMF-Last-Access-Global=15-Jun-2021

@@ -1,0 +1,10 @@
+type: 1000
+url: https://pymbook.readthedocs.io/_/downloads/en/latest/pdf/
+size: 866901
+header: host:pymbook.readthedocs.io
+header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+header: referer:https://pymbook.readthedocs.io/en/latest/
+header: sec-fetch-dest:document
+header: sec-fetch-mode:navigate
+header: sec-fetch-site:same-origin
+header: sec-fetch-user:?1

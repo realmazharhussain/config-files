@@ -1,0 +1,10 @@
+type: 1000
+url: https://harurei.gtoddl.site/cdn/zone1/TV_Series/Titans/Season_03/Titans_S03E05_KimoiTV.com.mp4
+size: 112386685
+header: host:harurei.gtoddl.site
+header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+header: referer:https://kimoitv.com/
+header: sec-fetch-dest:document
+header: sec-fetch-mode:navigate
+header: sec-fetch-site:cross-site
+header: sec-fetch-user:?1

@@ -1,0 +1,9 @@
+type: 1000
+url: https://nchc.dl.sourceforge.net/project/blissos-x86/Official/bleeding_edge/Generic%20builds%20-%20Pie/11.13/Bliss-v11.13--OFFICIAL-20201113-1525_x86_64_k-k4.19.122-ax86-ga-rmi_m-20.1.0-llvm90_dgc-t3_gms_intelhd.iso
+size: 1706033152
+header: host:nchc.dl.sourceforge.net
+header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+header: referer:https://sourceforge.net/
+header: sec-fetch-dest:document
+header: sec-fetch-mode:navigate
+header: sec-fetch-site:same-site

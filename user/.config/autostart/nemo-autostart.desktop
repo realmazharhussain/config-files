@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Nemo
+Name=Nemo Desktop
 Icon=nemo
 Comment=Start Nemo desktop at log in
 Exec=nemo-desktop

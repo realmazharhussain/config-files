@@ -4,10 +4,10 @@
 # be used with UUID= as a more robust way to name devices that works even if
 # disks are added and removed. See fstab(5).
 #
-# <file system>             		 <mount point>  <type>  <options>         <dump>  <pass>
-UUID=f224d6e8-c961-4a73-9d65-b8d02b697e91 /              ext4    defaults,noatime   0        1
-UUID=3F51-8C00                            /boot/efi      vfat    umask=0077         0        2
-/swap                                     none           swap    sw                 0        0
+# <file system>             		         <mount point>  <type>  <options>         <dump>  <pass>
+UUID=f224d6e8-c961-4a73-9d65-b8d02b697e91       /         ext4    defaults,noatime   0        1
+UUID=3F51-8C00                              /boot/efi     vfat    umask=0077         0        2
+UUID=6db755c0-a09b-4833-95d2-c2fa9b3a7aaf      none       swap    sw                 0        0
 
 # Data Drives
 LABEL=Data   /mnt/Data   auto   uid=1000,gid=1000,umask=0022,nosuid,nodev,nofail,x-gvfs-show   0  0

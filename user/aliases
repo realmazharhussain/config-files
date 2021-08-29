@@ -26,15 +26,19 @@ alias ls='ls --color=auto'
 #alias l='ls --almost-all -C --classify'
 
 #alias ls='exa --icons --group-directories-first'
-alias ll='exa --icons --all --group-directories-first --long'
 alias l='exa --icons --all --group-directories-first --grid'
+alias la='exa --icons --group-directories-first --grid'
+alias ll='exa --icons --all --group-directories-first --long'
 
 alias gtc='git commit'
-alias gtcl='git clone'
 alias gta='git add'
 alias gts='git status'
 alias gtp='git push'
+alias gtl='git log'
+alias gtm='git merge'
 alias gtpl='git pull'
+alias gtcl='git clone'
+alias gtsw='git switch'
 
 alias locate='plocate'
 

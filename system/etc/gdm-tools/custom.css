@@ -7,7 +7,9 @@
 
 #panel {
     color: #f5f5f5;
-    background-color: #282828;
+    /*background-color: #282828;*/
+    /*background-color: #1e1e1e;*/
+    background-color: #121212;
 }
 
 #panel .panel-button {
@@ -15,5 +17,5 @@
 }
 
 #panel .panel-corner {
-    -panel-corner-background-color: #282828;
+    -panel-corner-background-color: #121212;
 }

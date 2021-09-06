@@ -7,7 +7,7 @@
     (iceflowers 0)
     (airflowers 0)
     (earthflowers 0)
-    (coins 1095)
+    (coins 1255)
     (worldmap-sprite "images/worldmap/common/tux.sprite")
     (last-worldmap "")
   )

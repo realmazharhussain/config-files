@@ -4,6 +4,8 @@ alias c='command'
 alias s='sudo'
 alias q='exit'
 
+type doas &>/dev/null && alias sudo='doas'
+
 alias mkdir='mkdir --parents'
 alias chown='sudo chown'
 #alias chmod='sudo chmod'
@@ -29,6 +31,10 @@ alias ls='ls --color=auto'
 alias l='exa --icons --all --group-directories-first --grid'
 alias la='exa --icons --group-directories-first --grid'
 alias ll='exa --icons --all --group-directories-first --long'
+
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
 
 alias gtc='git commit'
 alias gta='git add'

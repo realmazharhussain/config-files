@@ -8,3 +8,7 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[gui]
+	recentrepo = /home/mazhar/gitapps/config-files
+[pull]
+	rebase = false

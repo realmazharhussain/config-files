@@ -21,4 +21,5 @@ LABEL=Data   /mnt/Data   auto   uid=1000,gid=1000,umask=0022,nosuid,nodev,nofail
 /home/mazhar/.local/share/supertux2 /home/mazhar/gitapps/config-files/user/.local/share/supertux2 auto bind 0 0
 #/home/mazhar/.xdman /home/mazhar/gitapps/config-files/user/.xdman auto bind 0 0
 /etc/fish /home/mazhar/gitapps/config-files/system/etc/fish auto bind 0 0
+/srv/http /home/mazhar/gitapps/config-files/misc/srv-http auto bind 0 0
 

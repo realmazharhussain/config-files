@@ -36,3 +36,8 @@ fi
 
 sudo mkdir -p /srv/http
 sudo cp -rTf ./srv-http /srv/http
+
+# run scripts
+for script in ./scripts/*; do
+   "$script"
+done

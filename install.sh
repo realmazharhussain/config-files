@@ -3,8 +3,8 @@
 scriptDir="$(dirname "$0")"
 
 echo "Copying files ..."
-cp -rT "$scriptDir"/user "$HOME"
-sudo cp -rT "$scriptDir"/system /
+cp -rdT "$scriptDir"/user "$HOME"
+sudo cp -rdT "$scriptDir"/system /
 
 echo "Rewriting /etc/fstab ..."
 sudo cp -n /etc/fstab{,.original}

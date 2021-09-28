@@ -2,7 +2,7 @@
 cd "$(dirname "$0")"
 
 make-home-symlinks(){
-for dir in Documents Downloads Pictures Templates Videos; do
+for dir in Documents Downloads Pictures Templates Videos .ssh; do
   if ! test -L ~/$dir; then
     if ! rmdir ~/$dir &> /dev/null; then
       if mv -t /mnt/Data/$dir/ ~/$dir/*; then

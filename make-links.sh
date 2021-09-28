@@ -15,6 +15,7 @@ sudo cp -lf /usr/share/libalpm/scripts/extract-gdm-theme "$scriptDir"/system/usr
 mkdir -p "$scriptDir"/user/.local/share/applications
 mkdir -p "$scriptDir"/user/.config/{Typora/typora-dictionaries,autostart}
 mkdir -p "$scriptDir"/user/.xdman
+mkdir -p "$scriptDir"/user/Desktop
 cp -lf ~/.local/share/applications/freej2me.desktop "$scriptDir"/user/.local/share/applications/
 cp -lf ~/.config/Typora/typora-dictionaries/user-dict.json "$scriptDir"/user/.config/Typora/typora-dictionaries/
 cp -lf ~/.config/autostart/{wine.desktop,nemo-autostart.desktop} "$scriptDir"/user/.config/autostart/
@@ -22,3 +23,4 @@ cp -lf ~/.xdman/{config.txt,settings.json} "$scriptDir"/user/.xdman
 cp -lf ~/{,{yay,pamac}-}aliases "$scriptDir"/user/
 cp -df ~/pkg-aliases "$scriptDir"/user/
 cp -lf ~/.gitconfig "$scriptDir"/user/
+cp -lf ~/Desktop/'Video Songs.desktop' "$scriptDir"/user/Desktop

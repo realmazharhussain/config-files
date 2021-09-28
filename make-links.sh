@@ -16,5 +16,6 @@ cp -lf ~/.local/share/applications/freej2me.desktop "$scriptDir"/user/.local/sha
 cp -lf ~/.config/Typora/typora-dictionaries/user-dict.json "$scriptDir"/user/.config/Typora/typora-dictionaries/
 cp -lf ~/.config/autostart/{wine.desktop,nemo-autostart.desktop} "$scriptDir"/user/.config/autostart/
 cp -lf ~/.xdman/{config.txt,settings.json} "$scriptDir"/user/.xdman
-cp -lf ~/{,{yay,pkg,pamac}-}aliases "$scriptDir"/user/
+cp -lf ~/{,{yay,pamac}-}aliases "$scriptDir"/user/
+cp -df ~/pkg-aliases "$scriptDir"/user/
 cp -lf ~/.gitconfig "$scriptDir"/user/

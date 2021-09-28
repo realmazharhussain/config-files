@@ -1,0 +1,6 @@
+#!/bin/bash
+customCss=/etc/gdm-tools/custom.css
+type set-gdm-theme &>/dev/null && set-gdm-theme extract
+if [ -r $customCss ]; then
+   cat $customCss | sudo tee -a /usr/share/themes/default-extracted/gnome-shell/gnome-shell.css >/dev/null
+fi

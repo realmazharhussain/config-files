@@ -1,8 +1,0 @@
-type: 1000
-url: https://s3.amazonaws.com/downloads.leanpub.com/powershell101.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0XBXHW3Q9GGV69BT7E82%2F20210823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210823T152104Z&X-Amz-Expires=518400&X-Amz-SignedHeaders=host&X-Amz-Signature=f32224282e5919c03cc3ab5d6be1169441e8625d17d39220c929606670bd30ff
-size: 1383717
-header: host:s3.amazonaws.com
-header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
-header: sec-fetch-dest:document
-header: sec-fetch-mode:navigate
-header: sec-fetch-site:cross-site

@@ -1,9 +1,0 @@
-type: 1000
-url: https://greenteapress.com/thinkpython2/thinkpython2.pdf
-size: 813882
-header: host:greenteapress.com
-header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
-header: sec-fetch-dest:document
-header: sec-fetch-mode:navigate
-header: sec-fetch-site:cross-site
-header: sec-fetch-user:?1

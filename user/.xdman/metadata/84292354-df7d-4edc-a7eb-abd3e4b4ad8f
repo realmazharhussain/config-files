@@ -1,7 +1,0 @@
-type: 1000
-url: https://downloads.mysql.com/docs/refman-8.0-en.html-chapter.zip
-size: 9800409
-header: host:downloads.mysql.com
-header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
-header: referer:https://dev.mysql.com/
-header: Cookie:MySQL_S=6kp7lho7bjvgqo5eg9luhsov9e6ko1i4

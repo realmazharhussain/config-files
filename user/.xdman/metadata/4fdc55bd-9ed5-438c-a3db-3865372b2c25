@@ -1,6 +1,0 @@
-type: 1000
-url: https://github-releases.githubusercontent.com/67702184/537ec980-b2a8-11eb-98ec-17da018f55cc?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210709%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210709T080352Z&X-Amz-Expires=300&X-Amz-Signature=814cfbe99b90d448d30a45ca6c3e0c42d01ed6ccc82236d43a15c17f93c4e7f6&X-Amz-SignedHeaders=host&actor_id=67191572&key_id=0&repo_id=67702184&response-content-disposition=attachment%3B%20filename%3DMagisk-v23.0.apk&response-content-type=application%2Fvnd.android.package-archive
-size: 6874374
-header: host:github-releases.githubusercontent.com
-header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
-header: referer:https://github.com/topjohnwu/Magisk/releases

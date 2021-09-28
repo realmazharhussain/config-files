@@ -1,6 +1,0 @@
-type: 1000
-url: https://github-releases.githubusercontent.com/67702184/5b3e6e00-b2a8-11eb-92fa-ee22429d46b0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210709%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210709T080401Z&X-Amz-Expires=300&X-Amz-Signature=525f3717be8c93f08de2f2b996db4b1153f818be5624ed87f57202280d6671d8&X-Amz-SignedHeaders=host&actor_id=67191572&key_id=0&repo_id=67702184&response-content-disposition=attachment%3B%20filename%3Dstub-release.apk&response-content-type=application%2Fvnd.android.package-archive
-size: 29110
-header: host:github-releases.githubusercontent.com
-header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
-header: referer:https://github.com/topjohnwu/Magisk/releases

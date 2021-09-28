@@ -1,6 +1,0 @@
-type: 1000
-url: https://github-releases.githubusercontent.com/51980455/04beca00-b87c-11eb-9ae7-f7a1802aa498?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210608T093612Z&X-Amz-Expires=300&X-Amz-Signature=843a5c0b98d265968eba4a781505c7d1beb0c3975c2b05aeeef471da4639c21d&X-Amz-SignedHeaders=host&actor_id=67191572&key_id=0&repo_id=51980455&response-content-disposition=attachment%3B%20filename%3DAlacritty-v0.8.0-installer.msi&response-content-type=application%2Foctet-stream
-size: 2019328
-header: host:github-releases.githubusercontent.com
-header: user-agent:Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
-header: referer:https://github.com/alacritty/alacritty/releases

@@ -29,7 +29,18 @@ remove_excluded_files(){
   fi
 }
 
+backup_ssh_keys(){
+  echo 'Backing up SSH keys ...'
+  cp -dfrpT $HOME/.ssh /mnt/Data/.ssh
+  while read filename
+  do
+    test ! -e $HOME/.ssh/"$filename" && rm -i /mnt/Data/.ssh/"$filename"
+  done <<< "$(find /mnt/Data/.ssh -printf '%P\n')"
+}
+
 orig_dir=$HOME bak_dir="$script_dir"/user             sync_files "${home_files[@]}"
 orig_dir=''    bak_dir="$script_dir"/system sudo=sudo sync_files "${root_files[@]}"
-remove_excluded_files
 sudo chown $USER -R system
+remove_excluded_files
+backup_ssh_keys
+exit 0

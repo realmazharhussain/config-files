@@ -3,6 +3,7 @@ root_files=(
    #files
    etc/vimrc
    etc/environment
+   etc/anacrontab
    etc/samba/smb.conf
    etc/fstab=etc/fstab.example
    etc/sudoers

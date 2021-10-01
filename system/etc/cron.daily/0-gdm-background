@@ -1,0 +1,70 @@
+#!/bin/bash
+[ $UID != 0 ] && echo must run as root >&2 && exit 1
+export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+user=$(logname)
+eval background_current=$(su $user -c 'gsettings get org.gnome.desktop.background picture-uri')
+background_current="${background_current#file://}"
+index=0
+index_current_background=-1
+wallpapers=()
+while read wallpaper; do
+  if file --brief --mime-type "$wallpaper" | grep 'image/' &>/dev/null; then
+    wallpapers=("${wallpapers[@]}" "$wallpaper")
+    if [ "$wallpaper" = "$background_current" ]; then
+      index_current_background=$index
+    fi
+    ((index++))
+  fi
+done <<<$(eval ls -dtr1 ~$user/Pictures/Wallpapers/*)
+
+#month_to_days(){
+#  case $1 in
+#    01)
+#      return 31
+#    ;;
+#    02)
+#      return 59
+#    ;;
+#    03)
+#      return 90
+#    ;;
+#    04)
+#      return 120
+#    ;;
+#    05)
+#      return 151
+#    ;;
+#    06)
+#      return 181
+#    ;;
+#    07)
+#      return 212
+#    ;;
+#    08)
+#      return 243
+#    ;;
+#    09)
+#      return 273
+#    ;;
+#    10)
+#      return 304
+#    ;;
+#    11)
+#      return 334
+#    ;;
+#    12)
+#      return 365
+#    ;;
+#  esac
+#}
+#
+#eval $(date '+day_now=%d month_now=%m')
+#wallpaper_count=${#wallpapers[@]}
+#days_start=250
+#days_now=$(( $(month_to_days $month_now) + $day_now ))
+#wallpaper_index=$(( (days_now - days_start) % wallpaper_count ))
+#background="${wallpapers[$wallpaper_index]}"
+background_next="${wallpapers[$((index_current_background+1))]}"
+set-gdm-theme -s -b "$background_next" &>/dev/null
+su $user -c 'gsettings set org.gnome.desktop.background picture-uri file://'"$background_next" &>/dev/null
+#echo "$background"

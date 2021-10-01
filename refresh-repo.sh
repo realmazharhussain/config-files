@@ -4,6 +4,16 @@ script_dir="$(dirname "$0")"
 cd "$script_dir"
 source filemap
 sync_files(){
+  if test ! -v orig_dir
+  then
+    echo '$orig_dir not specified! not syncing files.' >&2
+    return 1
+  fi
+  if test ! -v bak_dir
+  then
+    echo '$bak_dir not specified! not syncing files.' >&2
+    return 1
+  fi
   for file in "$@"
   do
     file_orig="$orig_dir"/${file%=*}

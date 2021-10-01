@@ -3,7 +3,7 @@ export repo_root="$(dirname "$0")"
 cd "$repo_root"
 
 # run scripts
-for script in ./scripts/*; do
+for script in ./install-scripts/*; do
    chmod 755 "$script"
    "$script"
 done

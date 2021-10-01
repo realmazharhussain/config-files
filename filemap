@@ -1,0 +1,45 @@
+#!/bin/bash
+root_files=(
+   #files
+   etc/vimrc
+   etc/environment
+   etc/samba/smb.conf
+   etc/fstab=etc/fstab.example
+   etc/sudoers
+   etc/gdm-tools/custom.css
+   etc/gdm-tools/currentBackground
+   etc/gdm-tools/currentTheme
+   etc/UPower/UPower.conf
+   etc/sysctl.d/99-sysrq.conf
+   etc/profile.d/scripts-path.sh
+   usr/share/libalpm/hooks/extract-gdm-theme.hook
+   usr/share/libalpm/scripts/extract-gdm-theme
+
+   #directories
+   etc/fish
+   srv/http
+)
+home_files=(
+   #files
+   aliases
+   pkg-aliases
+   yay-aliases
+   pamac-aliases
+   Desktop/'Video Songs.desktop'
+   .gitconfig
+   .local/share/applications/freej2me.desktop
+   .config/Typora/typora-dictionaries/user-dict.json
+   .config/autostart/nemo-autostart.desktop
+   .xdman/config.txt
+   .xdman/settings.json
+
+   #directories
+   .config/fish
+   .config/freej2me
+   .local/share/supertux2
+   .config/vlc
+   .config/Typora/themes
+   .local/share/applications/wine/MimeApps
+)
+exclude_files=(
+)

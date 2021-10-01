@@ -54,4 +54,6 @@ if status is-interactive
   set -gx LESS_TERMCAP_so (set_color -o brblue; set_color -b white)
   set -gx LESS_TERMCAP_ue (set_color normal)
   set -gx LESS_TERMCAP_us (set_color green)
+  # Include PWD in PATH
+  set PATH $PATH .
 end

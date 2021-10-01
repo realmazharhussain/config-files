@@ -104,5 +104,5 @@ function fish_prompt
 
     end
 
-    echo -n -s $command_status $user $at_sign $hostName $normal':'$cwd $repo_info $user_sign ' '
+    echo -n -s $command_status $user $at_sign $hostName $normal':'$cwd $repo_info $user_sign ' '$normal
 end

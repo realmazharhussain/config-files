@@ -1,25 +1,8 @@
-# /etc/fstab: static file system information.
-#
-# Use 'blkid' to print the universally unique identifier for a device; this may
-# be used with UUID= as a more robust way to name devices that works even if
-# disks are added and removed. See fstab(5).
-#
-# <file system>             		         <mount point>  <type>  <options>         <dump>  <pass>
-UUID=f224d6e8-c961-4a73-9d65-b8d02b697e91       /         ext4    defaults,noatime   0        1
-UUID=3F51-8C00                              /boot/efi     vfat    umask=0077         0        2
-UUID=6db755c0-a09b-4833-95d2-c2fa9b3a7aaf      none       swap    sw                 0        0
+#             <file system>    		   <mount point>  <type>  <options>         <dump>  <pass>
+#UUID=f224d6e8-c961-4a73-9d65-b8d02b697e91       /         ext4    defaults,noatime   0        1
+#UUID=3F51-8C00                              /boot/efi     vfat    umask=0077         0        2
+#UUID=6db755c0-a09b-4833-95d2-c2fa9b3a7aaf      none       swap    sw                 0        0
 
 # Data Drives
-LABEL=Data   /mnt/Data   auto   uid=1000,gid=1000,umask=0022,nosuid,nodev,nofail,x-gvfs-show   0  0
-
-# For config-files git repo
-/home/mazhar/.config/freej2me /home/mazhar/gitapps/config-files/user/.config/freej2me auto bind 0 0
-/home/mazhar/.config/fish/functions /home/mazhar/gitapps/config-files/user/.config/fish/functions auto bind 0 0
-/home/mazhar/.config/fish/fish_functions /home/mazhar/gitapps/config-files/user/.config/fish/fish_functions auto bind 0 0
-/home/mazhar/.config/Typora/themes /home/mazhar/gitapps/config-files/user/.config/Typora/themes auto bind 0 0
-/home/mazhar/.local/share/applications/wine/MimeApps /home/mazhar/gitapps/config-files/user/.local/share/applications/wine/MimeApps auto bind 0 0
-/home/mazhar/.local/share/supertux2 /home/mazhar/gitapps/config-files/user/.local/share/supertux2 auto bind 0 0
-#/home/mazhar/.xdman /home/mazhar/gitapps/config-files/user/.xdman auto bind 0 0
-/etc/fish /home/mazhar/gitapps/config-files/system/etc/fish auto bind 0 0
-/srv/http /home/mazhar/gitapps/config-files/misc/srv-http auto bind 0 0
-
+# <file system> <mount point> <type>                           <options>                           <dump> <pass>
+   LABEL=Data    /mnt/Data     auto   uid=1000,gid=1000,umask=0022,nosuid,nodev,nofail,x-gvfs-show   0      0

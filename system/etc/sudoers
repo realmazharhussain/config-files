@@ -7,6 +7,12 @@
 ## See the sudoers man page for the details on how to write a sudoers file.
 ##
 
+## My custom config
+Defaults insults
+Defaults lecture=always
+Defaults lecture_file=/etc/sudo.lecture
+Defaults lecture_file=/etc/sudoers.lecture
+
 ##
 ## Host alias specification
 ##

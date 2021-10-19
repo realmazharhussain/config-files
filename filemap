@@ -7,6 +7,8 @@ root_files=(
    etc/samba/smb.conf
    etc/fstab=etc/fstab.example
    etc/sudoers
+   etc/sudo.lecture
+   etc/sudoers.lecture
    etc/gdm-tools/custom.css
    etc/gdm-tools/currentBackground
    etc/gdm-tools/currentTheme

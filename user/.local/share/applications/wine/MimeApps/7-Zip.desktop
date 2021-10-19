@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=7-Zip File Manager
-Exec=wine start /Unix "/home/mazhar/.wine/drive_c/Program Files/7-Zip/7zFM.exe" Z:%f
+Exec="/home/mazhar/.wine/drive_c/Program Files/7-Zip/7zFM.exe" Z:%f
+TryExec=/home/mazhar/.wine/drive_c/Program Files/7-Zip/7zFM.exe
 Type=Application
 StartupNotify=true
 Icon=BE44_7zFM.0

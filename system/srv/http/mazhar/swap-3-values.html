@@ -1,0 +1,33 @@
+<html>
+
+<head>
+  <script>
+    function swapvalues(){
+      value1 = document.getElementById("value1").value;
+      value2 = document.getElementById("value2").value;
+      value3 = document.getElementById("value3").value;
+      document.getElementById("value1").value =  value3;
+      document.getElementById("value2").value =  value1;
+      document.getElementById("value3").value =  value2;
+    }
+  </script>
+  <style>
+    body{
+      color: lightgray;
+      background-color: rgb(55, 55, 65);
+      font-size: larger;
+    }
+  </style>
+</head>
+
+<body>
+  <center>
+  <h1> Value Swapper </h1>
+  Value 1: <input type="text" id='value1'> <br>
+  Value 2: <input type="text" id='value2'> <br>
+  Value 3: <input type="text" id='value3'> <br>
+  <input type="button" value="Swap" onclick="swapvalues()">
+  </center>
+</body>
+
+</html>

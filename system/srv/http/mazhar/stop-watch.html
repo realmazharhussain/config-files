@@ -1,0 +1,91 @@
+<html>
+
+<head>
+  <script>
+    i = 0;
+    mm = 0;
+    ss = 0;
+    hh = 0;
+    function resetIt() {
+      i = 0;
+      mm = 0;
+      ss = 0;
+      hh = 0;
+      document.getElementById("t1").value = "00:00:00.00";
+      clearInterval(mytimer);
+    }
+
+
+    function startIt() {
+      mytimer = setInterval(myfun, 10);
+    }
+    function stopIt() {
+      clearInterval(mytimer);
+    }
+
+
+    function myfun() {
+      document.getElementById("t1").value = String(hh).padStart(2, '0') + ":" + String(mm).padStart(2, '0') + ":" + String(ss).padStart(2, '0') + "." + String(i).padStart(2, '0');
+      i++;
+      if (i == 100) {
+        i = 0;
+        ss++;
+      }
+      if (ss == 60) {
+        ss = 0
+        mm++;
+      }
+      if (mm == 60) {
+        mm = 0
+        hh++;
+      }
+    }
+  </script>
+  <style>
+    body {
+      background-color: aliceblue;
+    }
+
+    h2 {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 30pt;
+      color: brown;
+      font-weight: 1000;
+    }
+
+    #t1 {
+      font-size: 25pt;
+      text-align: center;
+      color: yellowgreen;
+      background-color: antiquewhite;
+      border-radius: 5pt;
+      border: solid lightskyblue;
+      font-family: 'Cascadia Code';
+      margin: 5pt;
+      padding: 5pt;
+    }
+
+    .button {
+      font-size: 15pt;
+      font-family: Hack;
+      color: blue;
+      background-color: aquamarine;
+      padding: 5pt;
+      border-radius: 5pt;
+      border: solid lightblue;
+    }
+  </style>
+</head>
+
+<body>
+  <center>
+    <h2> STOP WATCH </h2>
+    <input type="text" id="t1" value="00:00:00.00"> <br> <br>
+
+    <input class="button" type="button" value="Start" onclick="startIt()">
+    <input class="button" type="button" value="Stop" onclick="stopIt()">
+    <input class="button" type="button" value="Reset" onclick="resetIt()">
+  </center>
+</body>
+
+</html>

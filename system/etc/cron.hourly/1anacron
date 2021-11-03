@@ -7,4 +7,19 @@ if [ `date +%Y%m%d` = "$day" ]; then
     exit 0
 fi
 
+# Run jobs only when on battery power
+online=1
+for psupply in /sys/class/power_supply/* ; do
+    if [ `cat "$psupply/type" 2>/dev/null`x = Mainsx ] && [ -f "$psupply/online" ]; then
+        if [ `cat "$psupply/online" 2>/dev/null`x = 1x ]; then
+            online=1
+            break
+        else
+            online=0
+        fi
+    fi
+done
+if [ $online = 1 ]; then
+    exit 0
+fi
 /usr/sbin/anacron -s

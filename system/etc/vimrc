@@ -39,3 +39,6 @@ set smartcase
 set termguicolors
 map <C-y> "+y
 map <C-p> "+p
+
+"AirlineTheme
+let g:airline_theme='light'

@@ -42,3 +42,4 @@ map <C-p> "+p
 
 "AirlineTheme
 let g:airline_theme='light'
+let vimpager_passthrough = 0

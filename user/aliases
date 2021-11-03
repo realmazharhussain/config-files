@@ -34,7 +34,7 @@ alias ll='exa --icons --all --group-directories-first --long'
 
 alias cp='cp -i'
 alias mv='mv -i'
-alias rm='rm -i'
+alias rm='rm -I'
 
 alias gtc='git commit'
 alias gta='git add'

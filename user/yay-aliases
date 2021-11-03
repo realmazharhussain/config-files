@@ -8,6 +8,7 @@ alias fug='yay -Syu'
 
 alias list='yay -Sl'
 alias show='yay -Sii'
+alias showf='yay -Fl'
 
 alias ins='yay -S'
 alias lins='yay -Q'

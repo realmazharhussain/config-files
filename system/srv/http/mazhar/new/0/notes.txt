@@ -1,0 +1,180 @@
+::: Web Engineering :::
+Contents
+- HTML 5.0
+- CSS
+- JS
+- PHP
+- AJAX
+- MySQL  
+ dynamic web page creation.
+ Templates / Edit
+ Bootstrap
+ XML
+ ....
+ >>> How to run a web page?
+ 1- Web Server
+	Apache[tomcat, JWS, IIS ]
+ 2- Client machine [ your PC]
+ 3- Internet
+ 4- Code [PHP]
+ ....
+ >>> How to turn your machine into 
+ virtual server ?
+ Sol: we need to intall 
+ 1- Apache
+ 2- PHP
+ 3- MySQL
+ For this:
+ we need to install a software named
+ XAMPP:
+ X: X-windows
+ A: APache
+ M: MySQL
+ P: PHP
+ P: PERL
+ ....
+ What to do after installing the 
+ XAMPP?
+ Ans: Check that XAMPP is running 
+ Or Run it.
+ 
+ Wow... 
+ I found a folder named 'htdocs'
+ SYstem considers this folder as
+ Virutal Folder that is placed at
+ web server.
+ ::: HTML:::
+ not a prog lang
+ not a design lang
+ no constructs
+ not complete
+ tag based <>
+ 
+ :::  CSS : Cascading Style Sheet :::
+ It is used bacause HTML is not complete.
+ it contains the missing styles of HTML
+ 
+ How to use ?
+ It can be used in 3 ways.
+ 1- Embed CSS: CSS is a part of HTML document
+ 2- Link CSS
+ 3- Inline CSS
+ 
+ -- 6-OCt-2021 --
+ 1- apply CSS on table, th
+ 2- swap value in 3 textboxes using JS
+ 3- Desgin login form of gmail.
+ 4- desing search form of goolge.com.
+ 5- Design a calculator with -,/,x
+ 
+----- 12-OCT-2021 -----
+ Database: MySQL
+ varchar 25
+ BLOB: Binary Large OBject : images, voice
+------ PROJECT TITLES -----
+- Resevation System
+1- Air reservation system
+2- Rail reservation system
+3- Bus reservation system
+4- Hotel Resevation System
+5- Admission System
+6- Exam System
+7- Online Testing
+8- Banking system
+9- Stock maintenance System
+10- Accounting System
+11- Payroll (Salary) system
+12- Emart / Eshop
+13- Portal
+14- Social Networking 
+15- Blogging 
+16- VBlog
+17- Bots
+18- Virtual Assistant
+19- File conversion
+20- Video Conferencing
+21- Audio conferencing
+22- Desktop sharing
+23- File compression,encryption
+24- Weather forecasting
+25- stock market forecasting
+26- stock market system
+27- Match results
+28- Ads management
+29- bay (bidding)
+30- exchange
+31- Hospital system
+32- Hospital Operation
+33- Smart POS
+34- IVR
+35- Library System
+36- SMS 
+37- Mail server
+   ... more ideas ?
+   
+---- 
+TILL 18-OCT-2021:
+1- CHoose your semester Project
+2- Draw Context DFD, Detailed DFD, Diagram Zero
+3- Draw ERD for the project
+4- Normalize the data upto 3NF (identify keys)
+5- After the above 4 step::: create database in MySQL and create all tables with data.
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

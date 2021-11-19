@@ -3,6 +3,7 @@
 alias c='command'
 alias s='sudo'
 alias q='exit'
+alias cd..='cd ..'
 
 type doas &>/dev/null && alias sudo='doas'
 

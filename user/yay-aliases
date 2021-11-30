@@ -20,7 +20,7 @@ alias rmv='yay -Rs'
 #alias dpkg='sudo dpkg'
 #alias dins='sudo dpkg -i'
 
-alias clean='pamac clean -k 0; pamac clean -b; yay -Scc'
+alias clean='yay -Scc'
 #alias srch='yay -Sl | cut -d " " -f 2- | grep'
 alias srch='yay -Sl | grep'
 alias srchp='pacman -Sl | grep'

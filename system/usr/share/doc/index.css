@@ -1,0 +1,53 @@
+
+body {
+   font-size: 18pt;
+   text-align: center;
+   font-family: Sans;
+   background: #DDF
+}
+
+h1 {
+   color: blue;
+}
+
+ul {
+   background-color: skyblue;
+   border-radius: 15pt;
+   margin: 0 35%;
+   padding: 5pt;
+}
+
+ul a {
+   text-decoration: none;
+}
+
+ul a li {
+   list-style: none;
+   background-color: lightblue;
+   margin: 3pt;
+   padding: 2pt;
+   border-radius: 5pt;
+   font-weight: bold;
+}
+
+ul a:hover li {
+   background-color: purple;
+   color: white;
+}
+
+/* Dark Theme */
+@media (prefers-color-scheme: dark) {
+   body {
+      background-color: #00D
+   }
+   ul {
+      background-color: darkblue;
+   }
+   ul a li {
+      background-color: purple;
+   }
+   ul a:hover li {
+      background-color: lightblue;
+      color: black;
+   }
+}

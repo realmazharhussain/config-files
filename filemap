@@ -6,6 +6,7 @@ root_files=(
    etc/anacrontab
    etc/samba/smb.conf
    etc/fstab=etc/fstab.example
+   etc/httpd/conf/extra/myconfig.conf
    etc/sudoers
    etc/sudo.lecture
    etc/sudoers.lecture
@@ -17,6 +18,8 @@ root_files=(
    etc/cron.hourly/1anacron
    etc/cron.daily/0-gdm-background
    etc/profile.d/scripts-path.sh
+   usr/share/doc/index.html
+   usr/share/doc/index.css
    usr/share/libalpm/hooks/extract-gdm-theme.hook
    usr/share/libalpm/scripts/extract-gdm-theme
 

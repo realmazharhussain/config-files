@@ -1,0 +1,39 @@
+<html>
+<head>
+<script>
+function myfun() {
+ rn1 = document.getElementById("rn").value;
+ nm1 = document.getElementById("nm").value;
+ mr1 = document.getElementById("mr").value; 
+
+ 
+if(rn1.length == 0){
+ document.getElementById("myspan").innerHTML = ""; 
+ }
+else{
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                document.getElementById("myspan").innerHTML = this.responseText;
+            }
+        };
+        xmlhttp.open("GET", "insertusingformajax.php?q1=" + rn1 + "&q2=" + nm1 + "&q3=" + mr1, true);
+		
+        xmlhttp.send();
+    }
+}
+</script>
+</head>
+<body>
+<center>
+<h1> AJAX :: Add Record</h1>
+<form> 
+ Rollno: <input type="text" id="rn"> <br>
+ Name: <input type="text" id="nm"> <br>
+ Marks: <input type="text" id="mr"> <br> 
+ <input type="button" value="Add Record" onclick="myfun()">
+</form>
+<p> <span id="myspan"></span></p>
+<center>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+<head>
+<script>
+function myfun(str) {
+if(str.length == 0){
+ document.getElementById("myspan").innerHTML = ""; 
+ }
+else{
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                document.getElementById("myspan").innerHTML = this.responseText;
+            }
+        };
+        xmlhttp.open("GET", "searchusingformajax.php?q1=" + str, true);
+        xmlhttp.send();
+    }
+}
+</script>
+</head>
+<body>
+<center>
+<h1> AJAX </h1>
+<form> 
+ <input type="text" onkeyup="myfun(this.value)">
+</form>
+<p> <span id="myspan"></span></p>
+<center>
+</body>
+</html>

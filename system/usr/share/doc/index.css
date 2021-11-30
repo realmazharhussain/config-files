@@ -37,17 +37,26 @@ ul a:hover li {
 
 /* Dark Theme */
 @media (prefers-color-scheme: dark) {
+
    body {
-      background-color: #00D
+      background-color: #003;
    }
+
+   h1 {
+      color: #99F;
+   }
+
    ul {
+      background-color: #449;
+   }
+
+   ul a li {
+      color: #DDD;
       background-color: darkblue;
    }
-   ul a li {
-      background-color: purple;
-   }
+
    ul a:hover li {
-      background-color: lightblue;
-      color: black;
+      background-color: #55D;
+      color: #DDD;
    }
 }

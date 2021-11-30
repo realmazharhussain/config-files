@@ -56,4 +56,10 @@ if status is-interactive
   set -gx LESS_TERMCAP_us (set_color green)
   # Include PWD in PATH
   set PATH $PATH .
+  # Set the right cursors for vim mode
+  set fish_cursor_default block blink
+  set fish_cursor_unknown line blink
+  set fish_cursor_insert line blink
+  set fish_cursor_replace_one underscore blink
+  set fish_cursor_visual block
 end

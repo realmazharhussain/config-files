@@ -2,6 +2,7 @@
 root_files=(
    #files
    etc/vimrc
+   etc/xdg/nvim/init.vim
    etc/environment
    etc/anacrontab
    etc/samba/smb.conf

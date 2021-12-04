@@ -3,10 +3,10 @@
 
 # <file system> <dir> <type> <options> <dump> <pass>
 # /dev/sda6 LABEL=Manjaro
-UUID=5866491f-ddea-47e0-af24-a53fd37864b1	/         	ext4      	rw,relatime	0 1
+UUID=e082aad4-9bba-49d4-b578-3790ad9feb2b /              ext4    defaults,noatime 0 1
 
 # /dev/sda1 LABEL=EFI
-UUID=3F51-8C00      	/boot/efi 	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+UUID=9AB5-BF2D                            /boot/efi      vfat    umask=0077 0 2
 
 # /dev/sda4 LABEL=swap
 UUID=6db755c0-a09b-4833-95d2-c2fa9b3a7aaf	none      	swap      	defaults  	0 0

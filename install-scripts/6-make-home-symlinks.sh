@@ -1,35 +1,28 @@
 #!/bin/bash
+make-symlink() {
+  source="$1"
+  target="$2"
+  if test -e "$target" &&\
+     test -d "$target" &&\
+     test -n "$(find "$target" -type f)" &&\
+     ! mv -i "$target"/* "$source"/; then
+    abort=yes
+  fi
+  if test -z "$abort"; then
+     if test -f "$target" || test -L "$target"; then
+       rm "$target"
+     elif test -d "$target"; then
+       rmdir "$target"
+     fi
+     ln -sTf "$source" "$target"
+  fi
+}
 make-home-symlinks(){
-for dir in Documents Downloads Pictures Templates Videos; do
-  if test -f ~/$dir; then
-    if ! test -L ~/$dir; then
-      if ! rmdir ~/$dir &> /dev/null; then
-        if mv -t /mnt/Data/$dir/ ~/$dir/*; then
-          rmdir ~/$dir
-          ln -sTf /mnt/Data/$dir ~/$dir
-        fi
-      else
-        ln -sTf /mnt/Data/$dir ~/$dir
-      fi
-    fi
-  else
-    ln -sTf /mnt/Data/$dir ~/$dir
-  fi
+for dir in Documents Downloads Pictures Templates Videos Music:"Songs/Audio Songs"; do
+   source="/mnt/Data/${dir#*:}"
+   target="$HOME/${dir%:*}"
+   make-symlink "$source" "$target"
 done
-if test -f ~/Music; then
-  if ! test -L ~/Music; then
-    if ! rmdir ~/$dir &>/dev/null; then
-      if mv -t '/mnt/Data/Songs/Audio Songs/' ~/Music/*; then
-        rmdir ~/Music
-        ln -sTf '/mnt/Data/Songs/Audio Songs' ~/Music
-      fi
-    else
-      ln -sTf '/mnt/Data/Songs/Audio Songs' ~/Music
-    fi
-  fi
-else
-  ln -sTf '/mnt/Data/Songs/Audio Songs' ~/Music
-fi
 }
 
 echo "Making symlinks in HOME directory ..."

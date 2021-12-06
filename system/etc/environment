@@ -16,7 +16,7 @@ QT_STYLE_OVERRIDE="kvantum"
 #Not tested: this should disable window decorations
 # QT_WAYLAND_DISABLE_WINDOWDECORATION=1
 
-EDITOR=vim
+EDITOR=nvim
 #PAGER=most
 MOST_SWITCHES='-w'
 MOZ_ENABLE_WAYLAND=1

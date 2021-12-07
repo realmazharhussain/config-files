@@ -6,6 +6,7 @@
   (developer #f)
   (confirmation_dialog #f)
   (pause_on_focusloss #t)
+  (christmas #t)
   (transitions_enabled #t)
   (locale "")
   (repository_url "")

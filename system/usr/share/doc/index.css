@@ -24,6 +24,7 @@ ul a {
 ul a li {
    list-style: none;
    background-color: lightblue;
+   color: #33D;
    margin: 3pt;
    padding: 2pt;
    border-radius: 5pt;
@@ -31,7 +32,7 @@ ul a li {
 }
 
 ul a:hover li {
-   background-color: purple;
+   background-color: #55F;
    color: white;
 }
 

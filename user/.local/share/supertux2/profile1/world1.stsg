@@ -7,11 +7,12 @@
     (iceflowers 0)
     (airflowers 0)
     (earthflowers 0)
-    (coins 1436)
+    (coins 1482)
     (worldmap-sprite "images/worldmap/common/tux.sprite")
     (last-worldmap "")
   )
   (state
+    (underground #t)
     ("worlds"
       ("/levels/world1/worldmap.stwm"
         ("sprite-changes"
@@ -21,7 +22,19 @@
           ("28_51"
             (show-stay-action #f)
           )
-          ("28_16"
+          ("28_23"
+            (show-stay-action #f)
+          )
+          ("37_89"
+            (show-stay-action #f)
+          )
+          ("38_89"
+            (show-stay-action #f)
+          )
+          ("28_56"
+            (show-stay-action #f)
+          )
+          ("28_57"
             (show-stay-action #f)
           )
         )
@@ -290,6 +303,9 @@
           ("underground"
             (alpha 1)
           )
+          ("fitr_up"
+            (alpha 1)
+          )
           ("Underground_cover"
             (alpha 0)
           )
@@ -302,6 +318,9 @@
           ("Underground_darkness"
             (alpha 1)
           )
+          ("fitr_down_boulder"
+            (alpha 1)
+          )
           ("higher"
             (alpha 1)
           )
@@ -309,6 +328,12 @@
             (alpha 1)
           )
           ("Underground_mask"
+            (alpha 1)
+          )
+          ("fitr_up_boulder"
+            (alpha 1)
+          )
+          ("underground_wall"
             (alpha 1)
           )
           ("Land_foreground_1"
@@ -323,7 +348,13 @@
           ("Land_foreground_4"
             (alpha 0)
           )
+          ("fitr_down"
+            (alpha 1)
+          )
           ("pathing"
+            (alpha 1)
+          )
+          ("front_waves"
             (alpha 1)
           )
           ("castle"
@@ -335,12 +366,14 @@
           ("deco"
             (alpha 1)
           )
-          ("front_waves"
-            (alpha 1)
+          ("iv_secret"
+            (alpha 0)
           )
         )
       )
     )
-    (underground #t)
+    (fitr_up #f)
+    (fitr_down #f)
+    (iv_secret #f)
   )
 )

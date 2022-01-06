@@ -6,7 +6,11 @@
   (developer #f)
   (confirmation_dialog #f)
   (pause_on_focusloss #t)
-  (christmas #t)
+  (custom_mouse_cursor #t)
+  (integrations
+    (hide_editor_levelnames #f)
+    (enable_discord #f)
+  )
   (transitions_enabled #t)
   (locale "")
   (repository_url "")
@@ -26,7 +30,7 @@
   )
   (audio
     (sound_enabled #t)
-    (music_enabled #f)
+    (music_enabled #t)
     (sound_volume 10)
     (music_volume 10)
   )
@@ -39,6 +43,10 @@
         (control "remove")
       )
       (map
+        (key 13)
+        (control "menu-select")
+      )
+      (map
         (key 27)
         (control "escape")
       )
@@ -49,6 +57,10 @@
       (map
         (key 94)
         (control "console")
+      )
+      (map
+        (key 112)
+        (control "start")
       )
       (map
         (key 1073741882)
@@ -146,5 +158,15 @@
     )
   )
   (addons
+  )
+  (editor
+    (autosave_frequency 5)
+    (autotile_help #t)
+    (autotile_mode #f)
+    (render_background #t)
+    (render_grid #t)
+    (render_lighting #f)
+    (selected_snap_grid_size 3)
+    (snap_to_grid #t)
   )
 )

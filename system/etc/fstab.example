@@ -13,5 +13,6 @@ UUID=6db755c0-a09b-4833-95d2-c2fa9b3a7aaf	none      	swap      	defaults  	0 0
 
 # Data Drives
 # <file system> <mount point> <type>    <options>  <dump> <pass>
-   LABEL=Data    /mnt/Data     auto   x-gvfs-show   0      0
+   LABEL=Data    /mnt/Data    ntfs3   x-gvfs-show   0      0
 #   LABEL=Windows\04010 /mnt/Windows\04010 ntfs3 x-gvfs-show,noauto 0 0
+#LABEL=Data /mnt/Data auto uid=1000,gid=1000,umask=022,nosuid,nodev,nofail,x-gvfs-show 0 0

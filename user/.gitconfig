@@ -12,3 +12,7 @@
 	recentrepo = /home/mazhar/gitapps/config-files
 [pull]
 	rebase = false
+[color]
+	ui = true
+	status = true
+	push = true

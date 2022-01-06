@@ -1,5 +1,5 @@
 monitoring:true
-downloadFolder:/home/mazhar/Downloads
+downloadFolder:/home/mazhar/Download
 temporaryFolder:/home/mazhar/.xdman/temp
 parallalDownloads:1
 maxSegments:8
@@ -33,7 +33,7 @@ language:en
 downloadAutoStart:false
 showVideoNotification:true
 monitorClipboard:true
-categoryOther:/home/mazhar/Downloads
+categoryOther:/home/mazhar/Download
 categoryCompressed:/home/mazhar/Downloads/Compressed
 categoryDocuments:/home/mazhar/Downloads/Documents
 categoryMusic:/home/mazhar/Downloads/Music
@@ -41,7 +41,7 @@ categoryVideos:/home/mazhar/Downloads/Video
 categoryPrograms:/home/mazhar/Downloads/Programs
 fetchTs:false
 noTransparency:false
-forceSingleFolder:false
+forceSingleFolder:true
 hideTray:true
 showVideoListOnlyInBrowser:false
 zoomLevelIndex:0

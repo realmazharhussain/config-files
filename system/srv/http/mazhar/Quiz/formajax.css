@@ -1,0 +1,16 @@
+
+body {
+    font-size: 15pt;
+}
+input {
+    font-size: inherit;
+}
+select {
+    font-size: inherit;
+}
+h1 {
+    text-align: center;
+}
+form {
+    margin: 0 40%;
+}

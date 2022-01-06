@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="formajax.css"/>
+        <script src="formajax.js"></script>
+    </head>
+    <body>
+        <h1> Insert Record </h1>
+        <form>
+            Invoice ID <input type="text" placeholder="" required> <br>
+            Credit Card: <br>
+            <input type="radio" name="cardtype" value="master" id="mastercard">
+            <label for="mastercard"> Master Card</label> <br>
+            <input type="radio" name="cardtype" value="visa" id="visacard">
+            <label for="visacard"> Visa Card</label> <br>
+            <input type="radio" name="cardtype" value="ae" id="aecard">
+            <label for="aecard"> AE </label> <br>
+            <label for="city"> City: </label> 
+            <select name="city" id="city">
+                <option value="multan"> Multan </option>
+                <option value="lahore"> Lahore </option>
+                <option value="karachi"> Karachi </option>
+            </select> <br> <br>
+            <input type="submit" value="Insert" id="submit" onclick="myfunc();">
+        </form>
+    </body>
+</html>

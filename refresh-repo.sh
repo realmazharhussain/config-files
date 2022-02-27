@@ -24,10 +24,14 @@ sync_files(){
     #install -DT "$file_orig" "$file_bak"
     if test -d "$file_orig"
     then
+      filenames=()
       while read filename
       do
-        test ! -e "$file_orig"/"$filename" && rm -i "$file_bak"/"$filename"
+         filenames+=("$filename")
       done <<< "$(find "$file_bak" -printf '%P\n')"
+      for filename in "${filenames[@]}"; do
+        test ! -e "$file_orig"/"$filename" && $sudo rm -i "$file_bak"/"$filename"
+      done
     fi
   done
 }

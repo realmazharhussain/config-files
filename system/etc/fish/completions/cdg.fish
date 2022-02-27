@@ -6,4 +6,4 @@ for dir in $gitapps_dir/{,AUR,foreign}/*
   end
 end
 
-complete -xk -c gitapp -n "not __fish_seen_subcommand_from $gitapps" -a "$gitapps"
+complete -xk -c cdg -n "not __fish_seen_subcommand_from $gitapps" -a "$gitapps"

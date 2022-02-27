@@ -16,12 +16,11 @@ sync_files(){
   fi
   for file in "$@"
   do
-    file_orig="$orig_dir"/${file%=*}
-    file_bak="$bak_dir"/${file#*=}
+    file_orig="$orig_dir/${file%=*}"
+    file_bak="$bak_dir/${file#*=}"
     echo $file_orig '->' $file_bak
     mkdir -p "$(dirname "$file_bak")"
     $sudo cp -dfrpT "$file_orig" "$file_bak"
-    #install -DT "$file_orig" "$file_bak"
     if test -d "$file_orig"
     then
       filenames=()
@@ -30,7 +29,14 @@ sync_files(){
          filenames+=("$filename")
       done <<< "$(find "$file_bak" -printf '%P\n')"
       for filename in "${filenames[@]}"; do
-        test ! -e "$file_orig"/"$filename" && $sudo rm -i "$file_bak"/"$filename"
+        if test ! -e "$file_orig"/"$filename"; then
+           echo -n "remove '$file_bak/$filename'? "
+           if test -d "$file_bak"/"$filename"; then
+             $sudo rm -rI "$file_bak"/"$filename" 2>/dev/null
+           else
+             $sudo rm -i "$file_bak"/"$filename" 2>/dev/null
+           fi
+        fi
       done
     fi
   done

@@ -1,6 +1,7 @@
 [user]
 	name = Mazhar Hussain
 	email = mmazharhussainkgb1145@gmail.com
+	signingKey = 9034E6452420F0BBE1A6D4A5AEEA594E7BAB1C9A
 [init]
 	defaultBranch = main
 [filter "lfs"]
@@ -16,3 +17,7 @@
 	ui = true
 	status = true
 	push = true
+[advice]
+	detachedHead = false
+[commit]
+	gpgSign = true

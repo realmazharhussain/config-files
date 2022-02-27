@@ -1,0 +1,47 @@
+<html>
+ <head>
+ <script>
+ i=0;
+ mm=0;
+ ss=0;
+function resetIt(){
+  i=0;
+ mm=0;
+ ss=0;
+ document.getElementById("t1").value = "00:00:00 ";
+ clearInterval(mytimer);
+}
+
+
+ function startIt(){
+  mytimer = setInterval(myfun,5);
+ }
+ function stopIt(){
+  clearInterval(mytimer);
+ }
+  
+  
+ function myfun(){
+	document.getElementById("t1").value = mm + ":" + ss + ":" + i;
+	i++;
+	if (i==60){
+	  i=0;
+	  ss++;
+	}
+ }
+ </script>
+ </head>
+ 
+ <body>
+ <center>
+ <h2> STOP WATCH </h2>
+  <input type="text" id="t1" value="00:00:00"> <br>
+	
+<input type="button" value="Start" onclick="startIt()">
+<input type="button" value="Stop" onclick="stopIt()">
+<input type="button" value="Reset" onclick="resetIt()">
+ </center>
+ </body>
+
+</html>
+

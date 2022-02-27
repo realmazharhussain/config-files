@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<class>
+ <student sub="web">
+	<rollno>1</rollno>
+	<name>AAA</name>
+	<marks>100</marks>
+ </student>
+ <student sub="eng">
+ 	<rollno>2</rollno>
+	<name>BBB</name>
+	<marks>90</marks>
+ </student>
+  <student sub="maths">
+  	<rollno>3</rollno>
+	<name>CCC</name>
+	<marks>80</marks>
+ </student>
+</class>

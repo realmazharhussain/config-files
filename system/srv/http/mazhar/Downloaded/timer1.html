@@ -1,0 +1,27 @@
+<html>
+ <head>
+ <script>
+ function startIt(){
+  timerid = setInterval(myfun,1000);
+ }
+  
+ function myfun(){
+    v1 = document.getElementById("t1").value;
+    v2 = document.getElementById("t2").value;	
+	// swapping
+	document.getElementById("t1").value = v2;
+	document.getElementById("t2").value = v1;	
+ }
+ </script>
+ </head>
+ 
+ <body>
+ <center>
+ <h2> SWAP </h2>
+	Value-1: <input type="text" id="t1"> <br>
+	Value-2: <input type="text" id="t2"> <br>
+<input type="button" value="Swap" onclick="startIt()">
+ </center>
+ </body>
+
+</html>

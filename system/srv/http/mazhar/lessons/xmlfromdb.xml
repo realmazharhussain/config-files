@@ -1,0 +1,68 @@
+<?xml version='1.0' ?>
+<bscs>
+<student>
+	<rollno>1</rollno>
+	<name>Ali</name>
+	<marks>40</marks>
+</student>
+<student>
+	<rollno>2</rollno>
+	<name>Zahid</name>
+	<marks>18</marks>
+</student>
+<student>
+	<rollno>3</rollno>
+	<name>Iqra</name>
+	<marks>25</marks>
+</student>
+<student>
+	<rollno>4</rollno>
+	<name>Attofa</name>
+	<marks>16</marks>
+</student>
+<student>
+	<rollno>5</rollno>
+	<name>Aqsa</name>
+	<marks>71</marks>
+</student>
+<student>
+	<rollno>6</rollno>
+	<name>Six</name>
+	<marks>66</marks>
+</student>
+<student>
+	<rollno>12</rollno>
+	<name>Areej</name>
+	<marks>47</marks>
+</student>
+<student>
+	<rollno>13</rollno>
+	<name>Sameer</name>
+	<marks>49</marks>
+</student>
+<student>
+	<rollno>14</rollno>
+	<name>aaaa</name>
+	<marks>33</marks>
+</student>
+<student>
+	<rollno>17</rollno>
+	<name>Sana</name>
+	<marks>45</marks>
+</student>
+<student>
+	<rollno>20</rollno>
+	<name>Hania</name>
+	<marks>65</marks>
+</student>
+<student>
+	<rollno>95</rollno>
+	<name>Osama</name>
+	<marks>85</marks>
+</student>
+<student>
+	<rollno>99</rollno>
+	<name>zasin</name>
+	<marks>20</marks>
+</student>
+</bscs>

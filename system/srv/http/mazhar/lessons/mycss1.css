@@ -1,0 +1,9 @@
+
+p	{letter-spacing: 5pt; border: dotted 5pt red; padding:25pt; margin:30pt}
+span	{word-spacing:10pt; text-decoration:overline}
+img		{position:absolute; top:100pt; left:300pt}
+div		{color:green; background-color:pink; margin-top:20pt}
+.myclass		{background-color:yellow; font-size:30pt}
+.mypaddings1 	{padding:10pt; border: inset 3pt navy; margin:1in}
+#myid1		{background-image: url('a4.jpg')}
+.mysale		{background-color:orange}

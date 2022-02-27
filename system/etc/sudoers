@@ -9,6 +9,7 @@
 
 ## My custom config
 Defaults insults
+Defaults timestamp_timeout=0.01
 Defaults lecture=always
 Defaults lecture_file=/etc/sudo.lecture
 Defaults lecture_file=/etc/sudoers.lecture

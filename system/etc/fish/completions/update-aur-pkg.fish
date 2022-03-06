@@ -1,7 +1,7 @@
 # vim:fdm=marker foldlevel=0 tabstop=2 shiftwidth=2 filetype=fish
 
 set dirs
-for dir in ~/gitapps/AUR/*
+for dir in /mnt/Data/gitapps/AUR/*
   if test -d $dir/.git
   and test -f $dir/PKGBUILD
     set -a dirs (basename $dir)

@@ -1,9 +1,9 @@
 [Desktop Entry]
 Name=FreeJ2ME
 Comment=Open/Play J2ME Apps/Games
-Exec=java -jar /home/mazhar/gitapps/freej2me/build/freej2me.jar file:%f
+Exec=java -jar /mnt/Data/gitapps/foreign/freej2me/build/freej2me.jar file:%f
 Terminal=false
-Icon=/home/mazhar/gitapps/freej2me/resources/org/recompile/icon.png
+Icon=/mnt/Data/gitapps/foreign/freej2me/resources/org/recompile/icon.png
 Type=Application
 MimeType=application/x-java-archive
 StartupNotify=true

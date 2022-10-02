@@ -1,5 +1,5 @@
 ﻿###
-###  vlc 3.0.17
+###  vlc 3.0.17.4
 ###
 
 ###
@@ -126,7 +126,7 @@
 #qt-minimal-view=0
 
 # Systray icon (boolean)
-#qt-system-tray=1
+qt-system-tray=0
 
 # Show notification popup on track change (integer)
 #qt-notification=1
@@ -364,7 +364,7 @@ qt-privacy-ask=0
 #sout-avi-subject=
 
 # Encoder (string)
-#sout-avi-encoder=VLC Media Player - 3.0.17 Vetinari
+#sout-avi-encoder=VLC Media Player - 3.0.17.4 Vetinari
 
 # Keywords (string)
 #sout-avi-keywords=
@@ -2025,17 +2025,8 @@ soundfont=/run/user/1000/doc/ddc555a4/FluidR3_GM.sf2
 # Dither depth override (0 = framebuffer depth) (integer)
 #dither-depth=0
 
-# Desaturation strength (float)
-#desat-strength=0.000000
-
-# Desaturation exponent (float)
-#desat-exponent=0.000000
-
-# Desaturation base (float)
-#desat-base=0.000000
-
-# Maximum brightness boost (float)
-#max-boost=0.000000
+# Tone-mapping desaturation coefficient (float)
+#tone-mapping-desat=0.500000
 
 [flaschen] # Flaschen-Taschen video output
 
@@ -3903,7 +3894,7 @@ freetype-rel-fontsize=20
 #audio-replay-gain-peak-protection=1
 
 # Enable time stretching audio (boolean)
-#audio-time-stretch=1
+audio-time-stretch=0
 
 # Audio output module (string)
 aout=any

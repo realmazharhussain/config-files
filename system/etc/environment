@@ -8,7 +8,7 @@ QT_AUTO_SCREEN_SCALE_FACTOR=1
 
 #QT_QPA_PLATFORMTHEME="gnome"
 #QT_QPA_PLATFORMTHEME=qt5ct
-QT_STYLE_OVERRIDE="kvantum"
+#QT_STYLE_OVERRIDE="kvantum"
 
 # Force to use Xwayland backend
 # QT_QPA_PLATFORM=xcb
@@ -22,3 +22,6 @@ MOST_SWITCHES='-w'
 MOZ_ENABLE_WAYLAND=1
 OBS_USE_EGL=1
 LESS=' -R '
+
+gitapps=/mnt/Data/gitapps
+ga=/mnt/Data/gitapps

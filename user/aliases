@@ -8,7 +8,7 @@ alias cd..='cd ..'
 type doas &>/dev/null && alias sudo='doas'
 
 alias mkdir='mkdir --parents'
-alias chown='sudo chown'
+alias sco='sudo chown'
 #alias chmod='sudo chmod'
 
 #which wine > /dev/null && alias cmd='wine start cmd'
@@ -22,8 +22,9 @@ alias vdir='vdir --color=auto'
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
-alias ls='ls --color=auto'
+#alias ls='ls --color=auto'
 
+alias ls='ls --color=auto -A --file-type --group-directories-first --si'
 #alias ll='ls --almost-all -l --si'
 #alias la='ls --almost-all'
 #alias l='ls --almost-all -C --classify'
@@ -59,5 +60,6 @@ alias gtcl='git clone'
 alias gtsw='git switch'
 
 alias locate='plocate'
+alias wget="wget --hsts-file=$XDG_DATA_HOME/wget-hsts"
 
 [ -f ~/pkg-aliases ] && source ~/pkg-aliases

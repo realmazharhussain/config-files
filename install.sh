@@ -4,8 +4,9 @@ cd "$repo_root"
 
 # run scripts
 for script in ./install-scripts/*; do
-   chmod 755 "$script"
-   "$script"
+   if [[ -x "$script" && "$script" != *.bak ]]; then
+     "$script" || { echo "script '$script' failed! quitting..."; exit 1; }
+   fi
 done
 
 # Success message

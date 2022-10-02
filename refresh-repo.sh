@@ -50,17 +50,37 @@ remove_excluded_files(){
 }
 
 backup_ssh_keys(){
+  [[ "$(readlink ~/.ssh)" = /mnt/Data/.ssh ]] && return
   echo 'Backing up SSH keys ...'
   cp -dfrpT $HOME/.ssh /mnt/Data/.ssh
+  file_list=()
   while read filename
   do
-    test ! -e $HOME/.ssh/"$filename" && rm -i /mnt/Data/.ssh/"$filename"
+    test ! -e $HOME/.ssh/"$filename" && filenames+=(/mnt/Data/.ssh/"$filename")
   done <<< "$(find /mnt/Data/.ssh -printf '%P\n')"
+  for file in "${file_list[@]}"; do
+    rm -i $file
+  done
+}
+
+backup_gpg_keys(){
+  [[ "$(readlink ~/.gnupg)" = /mnt/Data/.gnupg ]] && return
+  echo 'Backing up GPG keys ...'
+  cp -dfrpT $HOME/.gnupg /mnt/Data/.gnupg
+  file_list=()
+  while read filename
+  do
+    test ! -e $HOME/.gnupg/"$filename" && filenames+=(/mnt/Data/.gnupg/"$filename")
+  done <<< "$(find /mnt/Data/.gnupg -printf '%P\n')"
+  for file in "${file_list[@]}"; do
+    rm -i $file
+  done
 }
 
 orig_dir=$HOME bak_dir="$script_dir"/user             sync_files "${home_files[@]}"
 orig_dir=''    bak_dir="$script_dir"/system sudo=sudo sync_files "${root_files[@]}"
 sudo chown $USER -R system
 remove_excluded_files
-backup_ssh_keys
+#backup_ssh_keys
+#backup_gpg_keys
 exit 0

@@ -1,7 +1,7 @@
 [user]
 	name = Mazhar Hussain
-	email = mmazharhussainkgb1145@gmail.com
-	signingKey = 9034E6452420F0BBE1A6D4A5AEEA594E7BAB1C9A
+	email = realmazharhussain@gmail.com
+	signingkey = D4A940F2A8CAABCDDBEBFBFDC2C4EBF5813AB6E3
 [init]
 	defaultBranch = main
 [filter "lfs"]

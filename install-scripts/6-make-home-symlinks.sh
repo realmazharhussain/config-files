@@ -18,7 +18,10 @@ make-symlink() {
   fi
 }
 make-home-symlinks(){
-for dir in Documents Downloads Pictures Templates Videos Music:"Songs/Audio Songs"; do
+for dir in Documents Downloads Pictures Templates Videos \
+           Music:"Songs/Audio Songs" \
+           .ssh
+do
    source="/mnt/Data/${dir#*:}"
    target="$HOME/${dir%:*}"
    make-symlink "$source" "$target"

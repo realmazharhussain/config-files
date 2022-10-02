@@ -1,0 +1,63 @@
+
+body {
+   font-size: 18pt;
+   text-align: center;
+   font-family: Sans;
+   background: #DDF;
+}
+
+h1 {
+   color: blue;
+}
+
+ul {
+   background-color: skyblue;
+   border-radius: 15pt;
+   margin: 0 35%;
+   padding: 5pt;
+}
+
+ul a {
+   text-decoration: none;
+}
+
+ul a li {
+   list-style: none;
+   background-color: lightblue;
+   color: #33D;
+   margin: 3pt;
+   padding: 2pt;
+   border-radius: 5pt;
+   font-weight: bold;
+}
+
+ul a:hover li {
+   background-color: #55F;
+   color: white;
+}
+
+/* Dark Theme */
+@media (prefers-color-scheme: dark) {
+
+   body {
+      background-color: #003;
+   }
+
+   h1 {
+      color: #99F;
+   }
+
+   ul {
+      background-color: #449;
+   }
+
+   ul a li {
+      color: #DDD;
+      background-color: darkblue;
+   }
+
+   ul a:hover li {
+      background-color: #55D;
+      color: #DDD;
+   }
+}

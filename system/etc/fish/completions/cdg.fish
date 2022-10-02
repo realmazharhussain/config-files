@@ -1,8 +1,18 @@
 set gitapps_dir /mnt/Data/gitapps
 set gitapps
-for dir in $gitapps_dir/{,AUR,foreign}/*
-  if test -r $dir/.git
-    set -a gitapps (string replace $gitapps_dir/ '' $dir)
+for dir in (ls -A $gitapps_dir)
+  if test -d $gitapps_dir/$dir; and not contains $dir AUR foreign
+    set -a gitapps $dir
+  end
+end
+for dir in (ls -A $gitapps_dir/AUR)
+  if test -d $gitapps_dir/AUR/$dir
+    set -a gitapps AUR/$dir
+  end
+end
+for dir in (ls -A $gitapps_dir/foreign)
+  if test -d $gitapps_dir/foreign/$dir
+    set -a gitapps foreign/$dir
   end
 end
 

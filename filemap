@@ -1,4 +1,3 @@
-#!/bin/bash
 root_files=(
    #files
    etc/vimrc
@@ -11,16 +10,18 @@ root_files=(
    etc/sudoers
    etc/sudo.lecture
    etc/sudoers.lecture
-   etc/gdm-tools/custom.css
-   etc/gdm-tools/currentBackground
-   etc/gdm-tools/currentTheme
+   #etc/gdm-tools/custom.css
+   #etc/gdm-tools/currentBackground
+   #etc/gdm-tools/currentTheme
    etc/UPower/UPower.conf
    etc/sysctl.d/99-sysrq.conf
    etc/cron.hourly/1anacron
    etc/cron.daily/0-gdm-background
+   etc/profile.d/appimage.sh
+   etc/profile.d/home-local-bin.sh
    etc/profile.d/scripts-path.sh
-   usr/share/doc/index.html
-   usr/share/doc/index.css
+   etc/profile.d/xdg-ninja.sh
+   srv/http/docs
    usr/share/libalpm/hooks/extract-gdm-theme.hook
    usr/share/libalpm/scripts/extract-gdm-theme
 
@@ -33,9 +34,11 @@ home_files=(
    aliases
    pkg-aliases
    yay-aliases
+   paru-aliases
    pamac-aliases
    Desktop/'Video Songs.desktop'
-   .gitconfig
+   .config/git/config
+   .local/share/gnupg
    .local/share/applications/freej2me.desktop
    .config/Typora/typora-dictionaries/user-dict.json
    .config/autostart/nemo-autostart.desktop

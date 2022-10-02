@@ -30,7 +30,7 @@
   )
   (audio
     (sound_enabled #t)
-    (music_enabled #t)
+    (music_enabled #f)
     (sound_volume 10)
     (music_volume 10)
   )

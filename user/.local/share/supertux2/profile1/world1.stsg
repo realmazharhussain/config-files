@@ -1,13 +1,13 @@
 (supertux-savegame
   (version 1)
-  (title "Icy Island (16/29)")
+  (title "Icy Island (17/29)")
   (tux
     (bonus "none")
     (fireflowers 0)
     (iceflowers 0)
     (airflowers 0)
     (earthflowers 0)
-    (coins 1482)
+    (coins 999)
     (worldmap-sprite "images/worldmap/common/tux.sprite")
     (last-worldmap "")
   )
@@ -39,9 +39,9 @@
           )
         )
         ("tux"
-          (y 76)
-          (x 62)
-          (back "east")
+          (y 80)
+          (x 61)
+          (back "north")
         )
         ("levels"
           ("stone_cold.stl"
@@ -263,7 +263,16 @@
           )
           ("or_just_me.stl"
             (perfect #f)
-            (solved #f)
+            ("statistics"
+              (coins-collected 6)
+              (secrets-found 0)
+              (time-needed 378.4098)
+              (secrets-found-total 2)
+              (badguys-killed-total 41)
+              (coins-collected-total 68)
+              (badguys-killed 10)
+            )
+            (solved #t)
           )
           ("journey_begins.stl"
             (perfect #f)
